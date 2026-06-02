@@ -1,0 +1,3 @@
+eis_number,target_category,reason
+20160322,ii,FRA Arizona Passenger Rail (Tucson-Phoenix) — Tier 1 corridor study; title doesn't contain "Tier 1" so regex misses it
+20170184,ii,FRA Atlanta-Chattanooga High Speed Ground Transportation — Tier 1 corridor study; title doesn't contain "Tier 1" so regex misses it

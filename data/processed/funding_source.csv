@@ -1,0 +1,505 @@
+panel_year,eis_number,lead_agency,naics_code,cost_m_usd_nominal,funding_source,funding_source_basis,title
+2015,20140385,BLM,212,300,private,agency default (BLM),Long Canyon Mine
+2015,20150016,FHWA,237310,100,gov_state_local,agency default (FHWA),"SR 997/SW 177th Avenue/Krome Avenue South, Contact: Cathy Kendall 850-553-2225. Under MAP-21 section 1319, FTA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2015,20150024,FHWA,237310,90,gov_state_local,agency default (FHWA),I-395/Route 9 Transportation System
+2015,20150035,FHWA,237310,300,gov_state_local,agency default (FHWA),"US 69/Loop 49 North Lindale Reliever Route, from IH 20 Southwest of Lindale to US 69 North of Lindale"
+2015,20150050,USA,236,400,gov_federal,agency default (USA),The Modernization and Repair of Piers 2 and 3 at Military Ocean Terminal Concord
+2015,20150052,FTA,485,360,gov_state_local,agency default (FTA),"Redlands Passenger Rail Project, Contact: Dominique Paukowits, 415-744-2735. Under MAP-21 Section 1319, FTA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2015,20150064,USACE,488,400,mixed,override: Port Everglades <e2><80><94> Broward Port non-fed sponsor,Port Everglades Harbor Navigation
+2015,20150077,USFS,713,30,private,agency default (USFS),Eldora Mountain Resort Ski Area Projects
+2015,20150082,BR,2213,0,gov_federal,agency default (BR),"Long-term Water Transfers, Contact: Russ Grimes 916-978-5051. Revision to FR Notice Published 03/27/2015; Officially Withdrawn per request of the submitting agency. Dated: October 8, 2019. Cindy S. Barger, Acting Director, Office of Federal Activities. [FR Doc. 2019-22293 Filed 10-10-19; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2015,20150085,FTA,485,2900,gov_state_local,agency default (FTA),Lynnwood Link Extension
+2015,20150091,CALTRANS,237310,1000,gov_state_local,agency default (CALTRANS),San Diego Freeway [[Page 18227]] (I-405) Improvement Project
+2015,20150092,BOP,236,400,gov_federal,agency default (BOP),Leavenworth Federal Correctional Institution and Federal Prison Camp
+2015,20150094,FERC,2211,0,private,agency default (FERC),"Martin Dam Hydroelectric Project, FERC Project No. 349-173"
+2015,20150114,FHWA,237310,1800,gov_state_local,agency default (FHWA),Mid County Parkway
+2015,20150116,DOE,9281,0,private,agency default (DOE),"ADOPTION--Corpus Christi Liquefied Natural Gas (LNG) Project, Contact: John Anderson 202-586- 0521. The U.S. Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's FEIS #20140302, filed with the U.S. EPA on 10/ 08/2014. DOE was a cooperating agency on the project and recirculation of the document is not necessary under Section 1506.3(c) of the CEQ Regulations. Dated: April 21, 2015. Cliff Rader, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2015-09611 Filed 4-23-15; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2015,20150121,BLM,2211,3000,private,agency default (BLM),TransWest Express Transmission Project
+2015,20150131,FHWA,237310,200,gov_state_local,agency default (FHWA),"US 281, Review Period Ends: 06/22/ 2015, Contact: Carlos Swonke 512 416-2734."
+2015,20150153,STB,482,124,private,agency default (STB),Six County Association of Governments Construction and Operation between Levan and Salina
+2015,20150163,BLM,2211,700,private,agency default (BLM),Soda Mountain Solar Project Proposed Plan Amendment
+2015,20150181,USACE,237310,0,gov_state_local,title hint: highway (state DOT pays),"Adoption--Interstate 5 North Coast Corridor Project, Contact: Stephanie J. Hall 213-452-3410. The U.S. Department of the Army's Corps of Engineers (USACE) has adopted the U.S. Department of Transportation's Federal Highway Administration's FEIS #20130332, filed 11/15/2013. The USACE was a cooperating agency on the project. Recirculation of the document is not necessary under 1506.3(b) of the CEQ Regulations. Dated: June 29, 2015. Dawn Roberts, Management Analyst, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2015-16329 Filed 7-1-15; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2015,20150188,USACE,488,580,mixed,override: Charleston Harbor Post 45 <e2><80><94> SCSPA non-fed sponsor,Charleston Harbor Post 45
+2015,20150202,FHWA,237310,0,gov_state_local,agency default (FHWA),"ADOPTION--I-12 to Bush, Louisiana Proposed Highway, review period ends: 08/24/2015, Contact: Carl Highsmith 225-757-7615. The U.S. Department of Transportation's Federal Highway Administration (FHWA) and Louisiana Department of Transportation has adopted the U.S. Army Corps of Engineers' final EIS #20120055, filed 02/29/2012 with EPA. The FHWA was not a cooperating agency for the above EIS. Therefore recirculation of the EIS is necessary under the CEQ Regulations Section 1506.3. Dated: July 21, 2015. Dawn Roberts, Management Analyst, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2015-18204 Filed 7-23-15; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2015,20150204,BOP,236,0,gov_federal,agency default (BOP),U.S. Penitentiary and Federal Prison Camp
+2015,20150220,FHWA,237310,80,gov_state_local,agency default (FHWA),US-95 Thorncreek Road to Moscow
+2015,20150222,BR,2213,1400,mixed,override: Shasta Lake <e2><80><94> CA state water contractors + BR (never built),Shasta Lake Water Resources Investigation
+2015,20150224,USFS,713,20,private,agency default (USFS),Breckenridge Multi-Season Recreation Projects
+2015,20150225,FRA,482,4000,private,override: Brightline All Aboard Florida <e2><80><94> private rail (FECI),"All Aboard Florida Intercity Passenger Rail Project, Orlando to Miami, Florida"
+2015,20150233,FERC,2211,11000,private,agency default (FERC),Lake Charles Liquefaction Project
+2015,20150246,FHWA,237310,50,gov_state_local,agency default (FHWA),Eastern Hills Drive and Connecting Roadways
+2015,20150259,FRA,482,4000,mixed,override: SE HSR Richmond-Raleigh <e2><80><94> NCDOT + FRA,"Southeast High Speed Rail, Richmond, VA, to Raleigh, NC"
+2015,20150260,BR,2213,0,gov_federal,agency default (BR),Central Valley Project Municipal and Industrial Water Shortage Policy
+2015,20150264,FHWA,237310,130,gov_state_local,agency default (FHWA),Pellissippi Parkway Extension (State Route 162) from State Route 33 (Old Knoxville Highway) to US 321/State Route 73/Lamar Alexander Parkway
+2015,20150265,BR,2213,100,mixed,BR water infra (mixed with sponsor share),"North Valley Regional Recycled Water Program, review period ends: 10/26/2015, Contact: Rain Emerson 559-487- 5196."
+2015,20150269,FHWA,488,7200,gov_state_local,agency default (FHWA),"Cross Harbor Freight Program, review period ends: 10/26/2015, Contact: Peter Osborn 518-431-4127."
+2015,20150270,FHWA,237310,240,gov_state_local,agency default (FHWA),"US Highway 53 from Virginia to Eveleth Minnesota, Contact: Philip Forst 651-291-6110. Under MAP-21 Section 1319, FHWA has issued a single FEIS and ROD. Therefore, the 30- day wait/review period under NEPA does not apply to this action."
+2015,20150280,FTA,485,700,gov_state_local,agency default (FTA),Link Light Rail Operations and Maintenance Facility
+2015,20150285,FERC,486,0,private,agency default (FERC),Jordan Cove Energy and Pacific Connector Gas Pipeline Project
+2015,20150299,NRC,2211,300,private,override: SHINE Medical <e2><80><94> private,"Construction Permit for the SHINE Medical Radioisotope Production Facility, Final Report, NUREG-2183"
+2015,20150307,DOE,2211,1600,private,override: TDI New England Clean Power Link <e2><80><94> private HVDC,New England Clean Power Link Project
+2015,20150310,DOE,2211,710,private,override: Minnesota Power Great Northern Transmission <e2><80><94> investor-owned utility,Great Northern Transmission Line Project
+2015,20150316,DOE,2211,2500,private,override: Plains and Eastern Clean Line <e2><80><94> private (cancelled),Plains and Eastern Clean Line Transmission Line Project
+2015,20150319,BLM,486,0,private,agency default (BLM),"ADOPTION--Jordan Cove Energy and Pacific Connector Gas Pipeline Project, Contact: Miriam Liberatore 540- 618-2400. The U.S. Department of the Interior's Bureau of Land Management is adopting the U.S. Federal Energy Regulatory Commission's FEIS #20150285, filed 09/30/2015 with EPA. BLM was a cooperating agency for the above project. Therefore, recirculation of the document is not necessary under Section 1506.3(c) of the Council on Environmental Quality Regulations."
+2015,20150324,FRA,482,0,gov_state_local,agency default (FRA),"Coast Corridor Improvements, Contact: Melissa Hatcher 202-493-6075 Under MAP-21 Section 1319, FRA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2015,20150325,FERC,486,4400,private,agency default (FERC),Magnolia LNG and Lake Charles Expansion Projects
+2015,20150331,USFS,486,0,private,agency default (USFS),"ADOPTION--Jordan Cove Energy and Pacific Connector Gas Pipeline Project, Contact: Wes Yamamoto 541-825- 3150. The U.S. Department of Agriculture's Forest Service is adopting the U.S. Federal Energy Regulatory Commission's FEIS #20150285, filed 09/ 30/2015 with EPA. USFS was a cooperating agency for the above project. Therefore, recirculation of the document is not necessary under Section 1506.3(c) of the Council on Environmental Quality Regulations. Dated: November 17, 2015. Karin Leff, Acting Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2015-29685 Filed 11-19-15; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2015,20150341,NPS,9241,0,gov_federal,agency default (NPS),East Everglades Expansion Area Land Acquisition
+2015,20150345,FHWA,237310,200,gov_state_local,agency default (FHWA),US 70 Havelock Bypass
+2015,20150347,FERC,2211,0,private,agency default (FERC),Merced River and Merced Falls Hydroelectric Projects
+2015,20150360,FERC,486,3000,private,agency default (FERC),Southeast Market Pipelines Project
+2015,20150015,BPA,2211,10,gov_federal,agency default (BPA),Hooper Springs Transmission Project
+2015,20150083,USFS,212,75,private,agency default (USFS),Resurrection Creek Phase II: Stream and Riparian Restoration Project and Hope Mining Company Proposed Mining Plan of Operations
+2015,20150086,USN,9281,1000,gov_federal,agency default (USN),Naval Base Coronado Coastal Campus
+2015,20150119,OSM,2211,300,private,title hint: private extractive/energy,Four Corners Power Plant and Navajo Mine Energy Project
+2015,20150137,USACE,2213,190,gov_federal,agency default (USACE),Southport Sacramento River Early Implementation Project
+2016,20160001,FHWA,237310,1300,gov_state_local,agency default (FHWA),I-70 East Project
+2016,20160010,FHWA,237310,80,gov_state_local,agency default (FHWA),"1800 North (SR-37) Project, Contact: Paul Ziman 801-955-3525 Under MAP-21 Section 1319, FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Amended Notices"
+2016,20160012,FHWA,237310,1500,gov_state_local,agency default (FHWA),Baton Rouge Loop Tier 1
+2016,20160016,FHWA,237310,400,gov_state_local,agency default (FHWA),"SH 249 Extension, Contact: Carlos Swonke 512-416-2734, Under MAP-21 Section 1319 FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2016,20160028,FHWA,237310,1200,gov_state_local,agency default (FHWA),I-94 East-West Corridor (70th St-- 16th St) Project
+2016,20160029,BPA,237310,400,gov_state_local,title hint: highway (state DOT pays),I-5 Corridor Reinforcement Project
+2016,20160041,FTA,485,2400,gov_state_local,agency default (FTA),"Durham-Orange Light Rail, Contact: Stanley A. Mitchell 404-865-5600, Under MAP 21 section 1319, FTA has issued a Final EIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2016,20160045,TVA,2211,0,gov_federal,agency default (TVA),Floating Houses Policy Review
+2016,20160048,USAF,481,550,gov_federal,agency default (USAF),United States Air Force F-35A Operational Beddown-Pacific
+2016,20160049,DOE,9281,0,private,agency default (DOE),Disposal of Greater-than-Class-C (GTCC) Low-Level Radioactive Waste and GTCC-Like Waste
+2016,20160066,BOP,236,510,gov_federal,agency default (BOP),U.S. Penitentiary and Federal Prison Camp Letcher County
+2016,20160076,BLM,212,2200,private,agency default (BLM),Continental Divide Creston Natural Gas Development Project
+2016,20160091,FERC,2211,60,private,agency default (FERC),Bear River Narrows Hydroelectric Project
+2016,20160099,USFS,212,30,private,agency default (USFS),"Granite Creek Watershed Mining Project, review period ends: 06/13/2016, Contact: Sophia Millar 541- 263-1735."
+2016,20160100,FTA,485,2750,gov_state_local,agency default (FTA),"Southwest Light Rail Transit, review period ends: 06/13/2016, Contact: Maya Sarna 202-366-5811."
+2016,20160104,BLM,2211,3000,private,agency default (BLM),"Energy Gateway South Transmission Project, review period ends: 06/13/2016, Contact: Tamara Gertsch 307- 775-6115. Final Supplement, NRC, NV, Supplement to the U.S. Department of Energy's Environmental Impact Statement for a Geologic Repository for the Disposal of Spent Nuclear Fuel and High-Level Radioactive Waste at Yucca Mountain, Nye County, Nevada--Final Report, NUREG-2184, Contact: Christine Pineda 301-415-6789. Prepared in accordance with NWPA [[Page 29856]] Sec. 114 and 10 CFR 51.109, which describes the NRC's NEPA process for its review of the proposed geologic repository at Yucca Mountain, Nevada. Amended Notices"
+2016,20160105,BLM,212,100,private,agency default (BLM),"Coeur Rochester Mine Plan of Operations Amendment 10 and Closure Plan, Review Period Ends: 06/20/ 2016, Contact: Kathleen Rehberg 775-623-1500."
+2016,20160114,FHWA,237310,300,gov_state_local,agency default (FHWA),Grand Parkway (State Highway 99) Segment B
+2016,20160124,FERC,2211,200,private,agency default (FERC),Sweetheart Lake Hydroelectric Project
+2016,20160125,BIA,2211,300,private,override: Aiya Solar Moapa <e2><80><94> utility-scale PV by private developer,Aiya Solar Project
+2016,20160128,USACE,488,50,mixed,USACE civil works (mixed with sponsor share),Morehead City Harbor Integrated Dredged Material Management Plan
+2016,20160133,FTA,485,370,gov_state_local,agency default (FTA),Potomac Yard Metrorail Station
+2016,20160136,USACE,2213,2700,gov_federal,agency default (USACE),Upper Ohio Navigation Study
+2016,20160139,BLM,211,500,private,agency default (BLM),Monument Butte Area Oil and Gas Development Project
+2016,20160142,BLM,212,200,private,agency default (BLM),Bald Mountain Mine North and South Operations Area Project
+2016,20160147,USFS,2211,35,private,agency default (USFS),Kake to Petersburg Transmission Line Intertie Project
+2016,20160149,BIA,713210,50,tribal,agency default (BIA),Seminole Tribe of Florida Fee to Trust
+2016,20160155,FTA,485,1500,gov_state_local,agency default (FTA),Bottineau Light Rail Transit Metro Blue Line Extension
+2016,20160160,BR,2213,200,gov_state_local,title hint: highway (state DOT pays),Mendota Pool Bypass and Reach 2B Improvements Project
+2016,20160163,DOE,9281,0,private,agency default (DOE),"ADOPTION--Lake Charles Liquefaction Project, Contact: John Anderson 202-586-0521 The U.S. Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final EIS #20150233 filed 08/14/2015 with EPA. DOE was a cooperating agency, therefore recirculation of the document is not necessary under Section 1506.3(b) of the CEQ Regulations. Amended Notices"
+2016,20160170,BIA,713210,80,tribal,agency default (BIA),The Pokagon Band of Potawatomi Indians Fee-to-Trust Transfer for Tribal Village and Casino
+2016,20160178,BLM,211,0,private,agency default (BLM),Previously Issued Oil and Gas Leases in the White River National Forest
+2016,20160180,FERC,2211,10000,private,agency default (FERC),Golden Pass LNG Export Project
+2016,20160181,FERC,486,4200,private,agency default (FERC),"Rover Pipeline, Panhandle Backhaul, and Trunkline Backhaul Projects"
+2016,20160183,USFS,713,20,private,agency default (USFS),Arapahoe Basin Ski Area Projects
+2016,20160194,FAA,481,40,gov_state_local,agency default (FAA),Angoon Airport Project
+2016,20160203,FERC,486,1600,private,agency default (FERC),Leach XPress and Rayne XPress Expansion Projects
+2016,20160216,HUD,236,700,mixed,agency default (HUD),Lambert Houses Redevelopment
+2016,20160223,DOE,9281,0,private,agency default (DOE),"Adoption--Magnolia LNG and Lake Charles Expansion Projects, Contact: [[Page 67349]] John Anderson 202-586-0521. The U.S Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's FEIS #20150325, filed with the U.S. EPA on 11/13/2015. DOE was a cooperating agency on the project. Therefore, recirculation of the document is not necessary under Section 1506.3(c) of the CEQ Regulations"
+2016,20160225,BR,2213,0,gov_federal,agency default (BR),"Continued Implementation of the 2008 Operating Agreement for the Rio Grande Project, Review Period Ends: 11/ 07/2016, Contact: Hector Garcia 505-462-3550"
+2016,20160229,DOE,2211,1650,private,agency default (DOE),Recapitalization of Infrastructure Supporting Naval Spent Nuclear Fuel Handling at the Idaho National Laboratory
+2016,20160236,FAA,9281,0,gov_federal,title hint: military,"ADOPTION--Military Readiness Activities at Naval Weapons System Training Facility Boardman, Contact: Paula Miller 202-267-7378. The U.S. Department of Transportation's Federal Aviation Administration (FAA) has adopted the U.S. Navy's FEIS # 20150355, filed with the USEPA 12/28/2015. FAA was a cooperating agency on the project. Recirculation of the document is not necessary under Section 1506.3 of the CEQ Regulations. Dated: October 11, 2016. Karin Leff, Acting Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2016-24902 Filed 10-13-16; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2016,20160241,BLM,2211,50,private,agency default (BLM),Vantage to Pomona Heights 230kV Transmission Line Project
+2016,20160245,BR,2213,58,gov_federal,agency default (BR),"Lower Yellowstone Intake Diversion Dam Fish Passage Project, Montana"
+2016,20160270,FTA,485,3100,gov_state_local,agency default (FTA),Federal Way Link Extension
+2016,20160273,FHWA,237310,80,gov_state_local,agency default (FHWA),"SR 87 Connector, Contact: Joseph Sullivan 850-553-2248. Under 49 U.S.C. 304a(b), FHWA has issued a Final EIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2016,20160276,FRA,482,6000,gov_state_local,agency default (FRA),Baltimore and Potomac Tunnel
+2016,20160277,USCG,211,1000,private,override: Delfin LNG Deepwater Port <e2><80><94> Delfin Midstream private,Port Delfin Project Deepwater Port Application
+2016,20160279,BOEM,211,0,private,agency default (BOEM),Outer Continental Shelf Oil and Gas Leasing Program: 2017-2022
+2016,20160289,FERC,2211,2600,private,agency default (FERC),"Nexus Gas Transmission Project and Texas Eastern Appalachian Lease Project, review period ends: 01/09/ 2017, Contact: Joanne Wachholder 202-502-8056."
+2016,20160293,NPS,485,0,gov_state_local,title hint: transit (state/local pays),"ADOPTION--Potomac Yard Metrorail Station, Contact: Dan Koenig 202-219-3528. The U.S. Department of the Interior's National Park Service has adopted the U.S. Department of Transportation's Federal Transit Authority's FEIS #20160133, file 07/11/2016 with the EPA. NPS was a cooperating agency for the above project. Therefore, recirculation of the document is not necessary under Section 1056.3(c) of the Council on Environmental Quality. Amended Notices"
+2016,20160300,BIA,713210,500,tribal,agency default (BIA),Wilton Rancheria Fee-to-Trust and Casino Project
+2016,20160308,USFS,211,0,private,agency default (USFS),Oil and Gas Leasing in Portions of the Wyoming Range in the Bridger-Teton National Forest
+2016,20160309,BOEM,211,0,private,agency default (BOEM),Cook Inlet Planning Area Oil and Gas Lease Sale 244
+2016,20160318,BR,2213,17000,gov_state_local,"override: CA WaterFix (twin tunnels) <e2><80><94> DWR state-led, cancelled",Bay Delta Conservation Plan/California WaterFix
+2016,20160065,WAPA,2211,324,mixed,agency default (WAPA),San Luis Transmission Project
+2016,20160083,USACE,212,200,private,title hint: private extractive/energy,Surface Coal and Lignite Mining
+2016,20160157,USN,9281,500,gov_federal,agency default (USN),Land-Water Interface and Service Pier Extension at Naval Base Kitsap Bangor
+2016,20160233,USMC,999,400,gov_federal,agency default (USMC),Santa Margarita River Conjunctive Use Project
+2016,20160189,BLM,212,122,private,agency default (BLM),Sheep Mountain Uranium Project
+2016,20160207,USACE,2213,615,gov_federal,agency default (USACE),South Shore of Staten Island Coastal Storm Risk Management
+2017,20160322,FRA,482,0,gov_state_local,agency default (FRA),Arizona Passenger Rail Corridor: Tucson to Phoenix
+2017,20160326,FERC,2211,3000,private,agency default (FERC),Atlantic Sunrise Project
+2017,20170010,USFS,713,15,private,agency default (USFS),Lookout Pass Ski Area Expansion EIS
+2017,20170012,TVA,2211,100,gov_federal,agency default (TVA),Bull Run Fossil Plant Landfill
+2017,20170013,NPS,9241,50,mixed,override: Alcatraz Ferry <e2><80><94> Hornblower concession + NPS site,Alcatraz Ferry Embarkation
+2017,20170017,BR,2213,0,gov_federal,agency default (BR),Long-Term Plan to Protect Adult Salmon in the Lower Klamath River
+2017,20170018,DOE,9281,0,private,agency default (DOE),"Adoption--Golden Pass LNG Export Project, Review Period, Contact: Kyle Moorman 202-586-7970 The U.S. Department of Energy (DOE) has adopted the Federal Regulatory Commission's F"
+2017,20170044,USFS,713,50,private,agency default (USFS),Snowmass Multi-Season Recreation Projects
+2017,20170053,USAF,481,200,gov_federal,agency default (USAF),KC-46A Third Main Operating Base Beddown
+2017,20170055,FERC,486,1200,private,agency default (FERC),PennEast Pipeline Project
+2017,20170059,USACE,2213,200,gov_federal,override: Mamaroneck flood <e2><80><94> primarily federal,Mamaroneck and Sheldrake Rivers Flood Risk Management Project
+2017,20130360,USFS,212,1900,private,agency default (USFS),"Rosemont Copper Project, Proposed Construction, Operation with Concurrent Reclamation and Closure of an Open-Pit Copper Mine"
+2017,20170085,NRC,2211,115,private,override: NWMI medical isotopes <e2><80><94> private,Construction Permit for the Northwest Medical Isotopes Radioisotope Production Facility
+2017,20170088,USACE,2213,345,mixed,override: Ala Wai <e2><80><94> fed + state of Hawaii,"Ala Wai Canal Project, Flood Risk Management"
+2017,20170096,USACE,488,570,mixed,override: Port of Gulfport <e2><80><94> MS State Port Authority,Port of Gulfport Expansion Project
+2017,20170098,HUD,485,0,mixed,agency default (HUD),"Adoption--Transbay Terminal/Caltrain Downtown Extension/Redevelopment Project, Review Period Ends: 07/19/ 2017, Contact: Stanley W. Toal 415-489-6668. The Housing and Urban Development/the City and County of San Francisco Mayor's Office of Housing and Community Development (MOHCD, has adopted the Federal Transit Administration's FEIS #20040148, filed 03/26/2004 with the EPA. HUD/MOHCD was not a cooperating agency for the FEIS. Therefore, recirculation of the document is necessary under Section 1506.3(b) of the CEQ Regulations."
+2017,20170113,FERC,486,7850,private,agency default (FERC),Mountain Valley Project and Equitrans Expansion Project
+2017,20170115,USFS,113,0,private,agency default (USFS),"ADOPTION--Mountain Valley Project and Equitrans Expansion Project, Contact: Karen Overcash 540-265-5175. The U.S. Department of Agriculture's Forest Service (USFS) has adopted the Federal Energy Regulatory Commission's FEIS #20170113, filed with EPA 06/22/2017. The USFS was a cooperating agency for this project. Therefore, re-circulation of the document is not necessary under Section 1506.3(c) of the CEQ Regulations."
+2017,20170130,FHWA,237310,750,gov_state_local,agency default (FHWA),West Davis Corridor
+2017,20170134,FHWA,237310,2700,gov_state_local,agency default (FHWA),"Interstate 290 Eisenhower Expressway, Contact: Catherine A. Batey 217-492-4600, Under MAP-21 Section 1319, FHWA has issued a single FEIS and ROD. Therefore, the 30- day wait/review period under NEPA does not apply to this action."
+2017,20170138,FERC,486,8000,private,agency default (FERC),Atlantic Coast Pipeline and Supply Header Project
+2017,20170139,FHWA,237310,200,gov_state_local,agency default (FHWA),"US 30 from IL 136 to IL 40 Whiteside Co., Contact: Catherine A. Batey 217-492-4600, Under MAP-21 Section 1319, FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2017,20170143,FHWA,237310,80,gov_state_local,agency default (FHWA),"I-80 and State Street Interchange, Contact: Brandon Weston, 801-965-4603. Under MAP-21 Section 1319, FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2017,20170148,FERC,2211,3200,private,agency default (FERC),Mountaineer Xpress and Gulf XPress Projects
+2017,20170149,BOEM,999,0,private,agency default (BOEM),Geological and Geophysical Activities on the Gulf of Mexico Outer Continental Shelf
+2017,20170158,DOE,2211,1600,private,override: Northern Pass <e2><80><94> Eversource (cancelled),Northern Pass Transmission Line Project
+2017,20170184,FRA,482,0,gov_state_local,agency default (FRA),Atlanta-Chattanooga High Speed Ground Transportation Project
+2017,20170194,BLM,212,80,private,agency default (BLM),Gold Bar Mine Project
+2017,20170197,FAA,481,0,gov_federal,title hint: military,"ADOPTION--Proposed Establishment and Modification of Oregon Military Training Airspace, Contact: Paula Miller 202-267-7378 Dated: October 2, 2017. Kelly Knight, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2017-21548 Filed 10-5-17; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2017,20170198,USAF,481,375,gov_federal,agency default (USAF),"Presidential Aircraft Recapitalization Program, Joint Base Andrews-Naval Air Facility"
+2017,20170199,FAA,481,0,gov_state_local,agency default (FAA),"Adoption--Pinon Canyon Maneuver Site Training and Operations, Contact: Paula Miller (202) 267-7378"
+2017,20170203,USACE,488,0,mixed,USACE civil works (mixed with sponsor share),Kansas River Commercial Dredging
+2017,20170213,FHWA,237310,400,gov_state_local,agency default (FHWA),"US 113 North/South Study Millsboro- South Area, Contact: Ryan O'Donoghue (302) 734-2745"
+2017,20170215,FRA,482,0,gov_state_local,agency default (FRA),Texas-Oklahoma Passenger Rail Study Service-Level FEIS/ROD
+2017,20170217,USACE,2213,1600,mixed,override: Bois d'Arc <e2><80><94> NTMWD non-federal sponsor majority,Lower Bois d'Arc Creek Reservoir Fannin County Texas
+2017,20170228,FHWA,237310,110,gov_state_local,agency default (FHWA),New York State Route 198 (Scajaquada Expressway) Corridor Project
+2017,20170237,TVA,212,200,gov_federal,agency default (TVA),Shawnee Fossil Plant Coal Combustion Residual Management
+2017,20170241,BLM,212,0,private,agency default (BLM),"ADOPTION--Mountain Valley Project and Equitrans Expansion Project, Review Period, Contact: Victoria Craft (601) 919-4655."
+2017,20170247,FHWA,237310,2200,gov_state_local,agency default (FHWA),Complete 540--Triangle Expressway Southeast Extension
+2017,20170046,NSA,999,4600,gov_federal,agency default (NSA),East Campus Integration Program
+2017,20170099,NIGC,713210,0,tribal,agency default (NIGC),"Adoption--Cowlitz Indian Tribe Trust Acquisition and Casino Project Take 151.87 Acres into Federal Trust and Issuing of Reservation Proclamation and Approving the Gaming Development and Management Contract, Contact: Esther Dittler 202-632- 7003. The National Indian Gaming Commission has adopted the U.S. Department of the Interior's Bureau of Indian Affairs FEIS #20080212, filed with EPA on 05/22/2008. NIGC was a cooperating agency with the project. Therefore, recirculation of the document is not necessary under Section 1506.3 of the CEQ Regulations."
+2017,20170110,USN,9281,50,gov_federal,agency default (USN),Disposal and Reuse of Surplus Property at Naval Station Newport
+2017,20170230,BPA,999,30,gov_federal,agency default (BPA),"Melvin R. Sampson Hatchery, Yakima Basin Coho Project"
+2017,20170234,USMC,236,100,gov_federal,agency default (USMC),"Multiple Projects in Support of Marine Barracks Washington, DC"
+2017,20170101,HUD,236,480,mixed,agency default (HUD),"Rebuild by Design Hudson River: Resist, Delay, Store, Discharge Project, Review Period Ends: 07/17/ 2017, Contact: Dennis Reinknecht 609-984-0556. The New Jersey Departments of Environmental Protection and Community Affairs is the lead agency for the above project."
+2017,20170182,USACE,2211,0,gov_federal,agency default (USACE),"ADOPTION--Plains and Eastern Clean Line Transmission Line Project, Review Period, Contact: David Gade 918- 669-7579. The U.S. Army Corps of Engineers--Tulsa District, District Commander Christopher A. Hussin, adopts the Department of Energy's Final Environmental Impact Statement for the Plains & Eastern Clean Line Transmission Line Project (Final EIS #182396 [DOE/EIS/0486]) filed with the USEPA on 11/13/2015. As the USACE was a cooperating agency, recirculation of the document (EIS) is not necessary under 40 CFR 1506.3(c)."
+2018,20180002,FHWA,237310,237,gov_state_local,agency default (FHWA),"I-70 Second Tier Combined Final Environmental Impact Statement and Record of Decision, Pursuant to 23 U.S.C. 139(N), The 30-day wait/review period does not apply to this FEIS, Contact: Kevin W. Ward 573-638-2600."
+2018,20180004,BR,2213,280,mixed,BR water infra (mixed with sponsor share),Pojoaque Basin Regional Water System EIS
+2018,20180009,FHWA,237310,0,gov_state_local,agency default (FHWA),"U.S. 50 Corridor East Tier 1 Final Environmental Impact Statement and Record of Decision. Under MAP-21, Section 1319, FHW has issued a single FEIS and ROD. Therefore, the 30- day wait/review period does not apply to this action, Contact: Melinda Urban 720-963-3073."
+2018,20180016,FHWA,237310,1500,gov_state_local,agency default (FHWA),"I69 Section 6 Martinsville to Indianapolis, Under MAP-21 section 1319, FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Contact: Michelle Allen 317-226-7344. Dated: February 6, 2018. Kelly Knight, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2018-02580 Filed 2-8-18; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2018,20180026,USFS,2211,100,private,agency default (USFS),Big Creek Geothermal Leasing Project
+2018,20180032,FTA,485,945,gov_state_local,agency default (FTA),"West Lake Corridor Project Final Environmental Impact Statement/Record of Decision and Section 4(f) Evaluation. Under 23 U.S.C. 139(n)(2), FTA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Contact: Mark Assam 206-220-4465."
+2018,20130018,BIA,713210,400,tribal,agency default (BIA),"ADOPTION--Spokane Tribe of Indians West Plains Casino and Mixed-Use Development Project Approval of Gaming Development and Management Spokane County WA, Contact: Esther Dittler 202-632-7003 The National Indian Gaming Commission (NIGC) has adopted the Bureau of Indian Affairs' (BIA) Spokane Tribe of Indians West Plains Casino and Mixed-Use Development Project Approval of Gaming Development and Management Spokane County WA EIS. BIA filed its Final EIS with EPA on January 25, 2013; it was published in the Federal Register on February 1, 2013. The comment period was extended from March 4, 2013 to May 1, 2013. The NIGC was a cooperating agency on the project and recirculation of the document is not necessary under Section 1506.3(c) of the Council of Environmental Quality National Environmental Policy Act (NEPA) Regulations. Dated: March 13, 2018. Kelly Knight, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2018-05393 Filed 3-15-18; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2018,20180039,FHWA,237310,350,gov_state_local,agency default (FHWA),Sterling Highway Milepost 45-60
+2018,20180056,FHWA,237310,1900,gov_state_local,override: Seattle Convention Center <e2><80><94> King County + WA state,"Washington State Convention Center Addition and King County Site Work, under 23 U.S.C. 139(n)(2), FTA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action.'' Contact: Sharon P. Love (360) 753-9558."
+2018,20180065,TVA,212,200,gov_federal,agency default (TVA),"Cumberland Fossil Plant Coal Combustion Residuals Management Operations, Review Period Ends: 05/21/ 2018, Contact: Ashley Pilakowski 865-632-2256"
+2018,20180075,BR,2213,1400,gov_state_local,override: Pure Water SD <e2><80><94> City of San Diego utility,"Pure Water San Diego Program, North City Project"
+2018,20180093,USFS,2211,0,private,agency default (USFS),"Santa Fe National Forest Geothermal Leasing Final Environmental Impact Statement, Comment Period Ends: 06/ 11/2018, Contact: Larry Gore 575-289-3264."
+2018,20180128,USFS,713,35,private,agency default (USFS),Steamboat Ski Area Improvements
+2018,20180129,FTA,485,300,gov_state_local,agency default (FTA),"Geary Corridor Bus Rapid Transit Project, Under 23 U.S.C. 139(n)(2), FTA has issued a single document that consists of a final environmental impact statement and record of [[Page 27984]] decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Contact: Alex Smith 415-734-9472"
+2018,20180135,USAF,481,200,gov_federal,agency default (USAF),KC-46A Main Operating Base #4 (MOB 4) Beddown
+2018,20180137,BLM,212,1500,private,agency default (BLM),Normally Pressured Lance Natural Gas Development Project
+2018,20180139,USFS,2211,80,private,agency default (USFS),Bordertown to California 120kV Transmission Line
+2018,20180144,FERC,486,300,private,agency default (FERC),Midcontinent Supply Header Interstate Pipeline Project
+2018,20180145,FHWA,237310,500,gov_state_local,agency default (FHWA),Pyramid Highway/US 395 Connection
+2018,20180169,BLM,212,150,private,agency default (BLM),Gold Rock Mine Project
+2018,20180175,FERC,2211,30,private,agency default (FERC),Lassen Lodge Final Environmental Impact Statement
+2018,20180202,FAA,481,250,gov_state_local,agency default (FAA),Tucson International Airport-- Airfield Safety Enhancement Project
+2018,20180219,USACE,2213,400,mixed,USACE civil works (mixed with sponsor share),Delta Islands and Levees Integrated Feasibility Study and Environmental Impact Study
+2018,20180237,USACE,2213,80,gov_federal,override: Winslow flood <e2><80><94> primarily federal,"Little Colorado River at Winslow, Navajo County, Arizona, Flood Risk Management Project, Integrated Feasibility Report and Environmental Impact Statement"
+2018,20180238,FHWA,237310,250,gov_state_local,agency default (FHWA),"S.R. 30, S.R. 23 to 1000 West, Contact: Naomi Kisen 801-965-4005 Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2018,20180241,FAA,481,0,gov_state_local,agency default (FAA),"ADOPTION--Modernization and Enhancement of Ranges Airspace and Training Areas in the Joint Pacific Alaska Range Complex in Alaska, Contact: Paula Miller 202-267-7378 The Federal Aviation Administration (FAA) has adopted the U.S. Air Force's Final"
+2018,20180242,FAA,481,0,gov_federal,title hint: military,"ADOPTION--Proposed Modernization and Expansion of Townsend Bombing Range, Contact: Paula Miller 202-267-7378 The Federal Aviation Administration (FAA) has adopted the U.S. Department of Navy's Final"
+2018,20180252,FHWA,237310,90,gov_state_local,agency default (FHWA),U.S. 50/South Shore Community Revitalization Project
+2018,20180258,FERC,2211,4500,private,agency default (FERC),Calcasieu Pass Project
+2018,20180265,DOE,9281,0,private,agency default (DOE),"ADOPTION--Calcasieu Pass Project, Contact: Brian Lavoie 202-586-2459 The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2018,20180287,UDOT,237310,25,gov_state_local,agency default (UDOT),"I-15, Payson Main Street Interchange"
+2018,20180300,USACE,2213,130,mixed,USACE civil works (mixed with sponsor share),Upper Llagas Creek Flood Protection Project
+2018,20180305,FTA,485,1100,gov_state_local,agency default (FTA),DART Cotton Belt Corridor Regional Rail Project
+2018,20180311,FAA,485,0,gov_state_local,agency default (FAA),"ADOPTION--DART Cotton Belt Corridor Regional Rail Project, Contact: John MacFarlane 817-222-5681 The Federal Aviation Administration (FAA) has adopted the Federal Transit Administration's Final"
+2018,20180321,DOE,9281,600,gov_federal,override: Santa Susana Field Lab <e2><80><94> DOE/Boeing remediation,Remediation of Area IV and the Northern Buffer Zone of the Santa Susana Field Laboratory
+2018,20180059,WAPA,2211,500,mixed,agency default (WAPA),"Estes to Flatiron Transmission Lines Rebuild Project Larimer County, Colorado Final Environmental Impact Statement (DOE/EIS-0483)"
+2018,20180067,USACE,212,7400,private,title hint: private extractive/energy,Donlin Gold Project
+2018,20180204,USACE,212,300,private,title hint: private extractive/energy,Ray Mine Tailings Storage Facility
+2018,20180209,GSA,999,500,gov_federal,agency default (GSA),2018 Master Plan for the Consolidation of the U.S. FDA HQ Final Environmental Impact Statement
+2018,20180211,NIGC,999,0,tribal,agency default (NIGC),ADOPTION--Wilton Rancheria
+2018,20180288,OSM,212,100,private,title hint: private extractive/energy,Western Energy Company's Rosebud Mine Area F
+2018,20180043,USACE,2213,35,gov_federal,agency default (USACE),"Holden Beach East End Shore Protection Project, Review Period [[Page 12754]] Ends: 04/23/2018, Contact: Mickey Sugg 910-251-4811"
+2018,20180196,BLM,212,1400,private,agency default (BLM),Alpine Satellite Development Plan for the Proposed Greater Mooses Tooth 2 Development Project
+2018,20180251,HUD,236,244,mixed,agency default (HUD),Rebuild by Design (RBD) Meadowlands Flood Control Project
+2018,20180275,USACE,2213,1600,gov_federal,agency default (USACE),Final Integrated City of Norfolk Coastal Storm Risk Management Feasibility Study
+2018,20180310,BLM,212,400,private,agency default (BLM),Riley Ridge to Natrona
+2018,20180320,BLM,212,46,private,agency default (BLM),Lost Creek Uranium In-Situ Recover Project Modifications
+2019,20180331,FERC,2211,4000,private,agency default (FERC),Driftwood LNG Project
+2019,20180332,FERC,2211,30,private,agency default (FERC),Yuba River Development Project
+2019,20180333,FERC,2211,2000,private,override: Swan Lake North Pumped Storage <e2><80><94> Rye Development private,Swan Lake North Pumped Storage Project
+2019,20180334,FERC,2211,926,private,agency default (FERC),Northeast Supply Enhancement Project
+2019,20190001,DOE,9281,0,private,agency default (DOE),"ADOPTION--Driftwood LNG Project, Contact: Brian Lavoie 202-586-2459 The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2019,20190003,FERC,488,13000,private,agency default (FERC),"Port Arthur Liquefaction Project, Texas Connector Project, and Louisiana Connector Project"
+2019,20190010,USFS,713,30,private,agency default (USFS),Crested Butte Mountain Resort Ski Area Projects
+2019,20190013,DOE,488,0,private,agency default (DOE),"ADOPTION--Port Arthur Liquefaction Project, Texas Connector Project, and Louisiana Connector Project, Contact: Brian Lavoie 202-586-2459 The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2019,20190017,GSA,236,675,gov_federal,override: GSA Otay Mesa LPOE <e2><80><94> federal MILCON-style funding,Otay Mesa Land Port of Entry Modernization and Expansion
+2019,20190024,BR,2213,400,gov_federal,agency default (BR),"Kachess Drought Relief Pumping Plant and Keechelus Reservoir-to-Kachess Reservoir Conveyance Projects Final Environmental Impact Statement, Kittitas and Yakima Counties, Washington"
+2019,20190026,FHWA,237310,190,gov_state_local,agency default (FHWA),"U.S. Highway 85--I-94 Interchange to Watford City Bypass, Contact: Kevin Brodie 701-221-9467 Under 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2019,20190034,FERC,2211,4500,private,agency default (FERC),Texas LNG Project-Texas LNG Brownsville LLC
+2019,20190037,FHWA,237310,500,gov_state_local,agency default (FHWA),"I-4400/I-4700 I-26 Widening Combined Final Environmental Impact Statement, Final Section 4(f) Evaluation, and Record of Decision, Contact: Clarence W. Coleman, PE 919-747-7014. Under 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2019,20190041,DOE,9281,0,private,agency default (DOE),"ADOPTION--Texas LNG Project-Texas LNG Brownsville LLC, Contact: Brian Lavoie 202-586-2459. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2019,20190044,BLM,212,383,private,agency default (BLM),Copper Flat Copper Mine
+2019,20190058,FHWA,237310,1700,gov_state_local,agency default (FHWA),"Hunts Point Interstate Access Improvement Project, Contact: Erik Koester--NYSDOT Project Director 718-482-4683. Under 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2019,20190062,FERC,2211,720,private,agency default (FERC),"Eagle LNG Partners Jacksonville, LLC Jacksonville Project"
+2019,20190065,FERC,2211,9000,private,agency default (FERC),Gulf LNG Liquefaction Project
+2019,20190069,FERC,2211,1700,private,agency default (FERC),Annova LNG Brownsville Project
+2019,20190070,USFS,486,30,private,agency default (USFS),Crow Creek Pipeline Project
+2019,20190072,DOE,9281,0,private,agency default (DOE),"Adoption--Eagle LNG Partners Jacksonville, LLC Jacksonville Project, Contact: Brian Lavoie 202-586- 2459. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2019,20190078,FHWA,237310,100,gov_state_local,agency default (FHWA),US 340 Improvement Study
+2019,20190079,FERC,2211,18000,private,agency default (FERC),Rio Grande LNG Project
+2019,20190083,DOE,9281,0,private,agency default (DOE),"Adoption--Gulf LNG Liquefaction Project, Review Period, Contact: Brian Lavoie 202-586-2459. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2019,20190084,DOE,9281,0,private,agency default (DOE),"Adoption--Annova LNG Brownsville Project, Contact: Brian Lavoie 202-586-2459. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2019,20190085,FERC,2211,45,private,agency default (FERC),Grant Lake Hydroelectric Project
+2019,20190090,BR,2213,0,mixed,BR water infra (mixed with sponsor share),"Central Valley Project Water Supply Contracts Under Public Law 101-514 (Section 206): Contract Between the U.S. Bureau of Reclamation and the El Dorado County Water Agency, Subcontract Between the El Dorado County Water Agency and the El Dorado Irrigation District, and Subcontract Between the El Dorado County Water Agency and the Georgetown Divide Public Utility District"
+2019,20190091,FERC,486,20000,private,agency default (FERC),Plaquemines LNG and Gator Express Pipeline Project
+2019,20190095,FHWA,237310,2300,gov_state_local,agency default (FHWA),"Carolina Crossroads I-20/26/126 Corridor Improvement Project, Contact: Jeffrey S. Belcher 803-253-3187. Under 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Amended Notice"
+2019,20190096,DOE,9281,0,private,agency default (DOE),"ADOPTION--Rio Grande LNG Project, Contact: Brian Lavoie 202-586-2459 The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2019,20190100,USFS,713,24,private,agency default (USFS),Mt. Rose Ski Tahoe Atoma Area Expansion
+2019,20190103,BLM,212,300,private,agency default (BLM),Caldwell Canyon Mine and Reclamation Plan
+2019,20190114,DOE,486,0,private,agency default (DOE),"ADOPTION--Plaquemines LNG and Gator Express Pipeline Project, Contact: Brian Lavoie 202-586.-2459. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2019,20190116,FRA,482,5000,mixed,override: DC-Richmond HSR <e2><80><94> VPRA state + federal,DC to Richmond Southeast High Speed Rail
+2019,20190120,BIA,713210,405,tribal,agency default (BIA),Beloit Fee-to-Trust and Casino Project
+2019,20190121,BIA,713210,250,tribal,agency default (BIA),"Tule River Indian Tribe Fee-to-Trust and Eagle Mountain Casino Relocation Project, Review Period Ends: 07/ 01/2019, Contact: Chad Broussard 916-978-6165."
+2019,20190129,BLM,212,50,private,agency default (BLM),Rossi Mine Expansion Project
+2019,20190131,BLM,212,50,private,agency default (BLM),Gemfield Mine Project
+2019,20190144,FHWA,237310,80,gov_state_local,agency default (FHWA),Little Missouri River Crossing
+2019,20190152,BLM,2211,0,private,agency default (BLM),Adoption--Swan Lake North Pumped Storage Project
+2019,20190153,TVA,2211,0,gov_federal,agency default (TVA),2019 Integrated Resource Plan Final Environmental Impact Statement
+2019,20190156,VA,485,0,gov_state_local,title hint: transit (state/local pays),"Adoption--Westside Subway Extension Transit Corridor Project Extension of the Existing Metro Purple Line and Metro Red Line Heavy Rail Subway Los Angeles County Metropolitan Transportation Authority Los Angeles County CA, Review Period Ends: 08/ 05/2019, Contact: Glenn Elliott 202-632-5879. The U.S. Department of Veterans Affairs (VA) has adopted the Federal Transit Administration Final"
+2019,20190165,BR,2211,0,private,title hint: private extractive/energy,ADOPTION--Swan Lake North Pumped Storage Project
+2019,20190167,BLM,212,300,private,agency default (BLM),Deep South Expansion Project
+2019,20190175,USACE,2213,185,mixed,USACE civil works (mixed with sponsor share),"Gulf Intracoastal Waterway, Brazos River Floodgates and Colorado River Locks, Texas"
+2019,20190197,FHWA,237310,182,gov_state_local,agency default (FHWA),"Interstate 80/Interstate 580/US Highway 395 Freeway-to-Freeway Interchange and Connecting Road Improvements, Contact: Abdelmoez Abdalla 775-687-1231, Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a combined FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2019,20190199,FHWA,237310,3500,gov_state_local,agency default (FHWA),"Project No. DPI-0030(005), I-10 Mobile River Bridge and Bayway, Mobile and Baldwin Counties, Alabama, Contact: Mr. Mark D. Barlett, P.E. 334-274-6350, Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a combined FEIS and ROD. Therefore, the 30- day wait/review period under NEPA does not apply to this action."
+2019,20190202,FAA,481,0,gov_state_local,agency default (FAA),"Adoption--Modernization and Enhancement of Ranges, Airspace, and Training Areas in the Joint Pacific Alaska Range Complex in Alaska, Contact: Paula Miller 202-267- 7378. The U.S. Department of Transportation's Federal Aviation Administration (FAA) has adopted the portions specific to Battle Area Complex Restricted Area R-2201 and the Expand Restricted Area R-2205, including the Digital Multi-Purpose Training Range, of the Departments of Army and the Air Force's Final"
+2019,20190203,FHWA,481,1220,gov_state_local,agency default (FHWA),"Van Wyck Expressway Capacity and Access Improvements to JFK Airport Project, Contact: Glorimar Reyes, Project Manager NYSDOT 718-482-7223, Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a combined FEIS and ROD. Therefore, the 30-day wait/ review period under NEPA does not apply to this action."
+2019,20190207,USACE,488,350,mixed,override: Matagorda Ship Channel <e2><80><94> Calhoun Port Authority,"Matagorda Ship Channel, Port Lavaca, Texas"
+2019,20190227,BLM,211,1000,private,agency default (BLM),Coastal Plain Oil and Gas Leasing Program
+2019,20190233,BLM,2211,1000,private,agency default (BLM),Desert Quartzite Solar Project Final Plan Amendment/Environmental Impact Statement/Environmental Impact Report
+2019,20190236,USACE,2213,490,mixed,override: Lake Ralph Hall <e2><80><94> UTRWD non-federal sponsor,Lake Ralph Hall Regional Water Supply Reservoir Project
+2019,20150082,BR,2213,0,gov_federal,agency default (BR),"Long-term Water Transfers, Contact: Russ Grimes 916-978-5051. Revision to FR Notice Published 03/27/2015; Officially Withdrawn per request of the submitting agency. Dated: October 8, 2019. Cindy S. Barger, Acting Director, Office of Federal Activities. [FR Doc. 2019-22293 Filed 10-10-19; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2019,20190247,BR,2213,0,gov_federal,agency default (BR),Long-Term Water Transfers
+2019,20190249,FHWA,237310,0,gov_state_local,agency default (FHWA),"Salem River Crossing Project (OR99E- Business, OR22, OR221), Contact: Emily Cline 503-939-3742. Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a combined FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2019,20190257,RUS,2211,492,mixed,agency default (RUS),Cardinal-Hickory Creek 345-kV Transmission Line Project
+2019,20190259,BR,2213,0,gov_federal,agency default (BR),Mendota Pool Group 20-Year Exchange Program
+2019,20190271,USACE,2213,300,mixed,override: Lower Elkhorn Levee Setback <e2><80><94> DWR + USACE,Lower Elkhorn Basin Levee Setback Project
+2019,20190275,USFS,113,65,private,agency default (USFS),Squaw Valley-Alpine Meadows Base-to- Base Gondola Project
+2019,20190276,FERC,2211,10000,private,agency default (FERC),Jordan Cove Energy Project
+2019,20190296,USFS,212,50,private,agency default (USFS),Omya Sentinel & Butterfield Quarries Expansion
+2019,20190298,FDOT,237310,200,gov_state_local,agency default (FDOT),Gulf Coast Parkway
+2019,20190300,BIA,2211,300,private,override: Eagle Shadow Mountain Solar <e2><80><94> Arevon (private utility-scale PV),Eagle Shadow Mountain Solar Project
+2019,20190302,BLM,2211,1100,private,agency default (BLM),Gemini Solar Final Resource Plan Amendment and Final EIS
+2019,20190023,OSM,212,50,private,title hint: private extractive/energy,San Juan Mine Deep Lease Extension Mining Plan Modification
+2019,20190149,OSM,212,0,private,title hint: private extractive/energy,"Adoption--Alton Coal Tract Lease by Application, Contact: Gretchen Pinkham 303-293-5088. The Office of Surface Mining Reclamation and Enforcement (OSMRE) has adopted the U.S. Bureau of Land Management. Final"
+2019,20190200,BR,2213,500,gov_federal,agency default (BR),B.F. Sisk Dam Safety of Dams Modification Project
+2020,20200000,HCIDLA,999,110,gov_state_local,agency default (HCIDLA),Rose Hill Courts Redevelopment Project
+2020,20200005,USN,236,100,gov_federal,agency default (USN),Fallon Range Training Complex Modernization
+2020,20200007,USACE,488,50,gov_federal,agency default (USACE),Bayou Casotte Harbor Channel Improvement Project
+2020,20200009,BLM,2211,1000,private,agency default (BLM),Haiwee Geothermal Leasing Area
+2020,20200022,BIA,2211,500,private,override: Campo Wind <e2><80><94> Terra-Gen + Boulder Brush private wind,Final Environmental Impact Statement for the Campo Wind Project with Boulder Brush Facilities
+2020,20200023,FERC,2211,20,private,agency default (FERC),Bucks Creek Hydropower Project
+2020,20200024,FHWA,237310,1800,gov_state_local,agency default (FHWA),I-26 Asheville Connector
+2020,20200026,USACE,488,1000,mixed,override: Houston Ship Channel <e2><80><94> Port + USACE cost share,Houston Ship Channel Expansion Channel Improvement Project
+2020,20200038,FRA,482,25,gov_state_local,agency default (FRA),"Port Bienville Railroad Combined Final Environmental Impact Statement and Record of Decision, Contact: Kevin Wright 202-493-0845 Under 23 U.S.C. 139(n)(2), FRA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Dated: February 10, 2020. Cindy S. Barger, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2020-03027 Filed 2-13-20; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2020,20200039,DOE,9281,0,private,agency default (DOE),"ADOPTION--Jordan Cove Energy Project, Contact: Brian Lavoie 202-586-2459. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2020,20200041,FERC,2211,500,private,agency default (FERC),Southgate Project
+2020,20200044,BLM,212,4250,private,agency default (BLM),Moneta Divide Natural Gas and Oil Development Project
+2020,20200051,USAF,481,105,gov_federal,agency default (USAF),United States Air Force F-35A Operational Beddown Air National Guard
+2020,20200056,USACE,488,200,gov_federal,agency default (USACE),"New Haven Harbor Connecticut, Navigation Improvement Project, Final Integrated Feasibility Report and Environmental Impact Statement"
+2020,20200057,FHWA,237310,62,gov_state_local,agency default (FHWA),"I-93 Exit 4A, Contact: Jamison S. Sikora 603-410-4870, Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Dated: February 25, 2020. Cindy S. Barger, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2020-04107 Filed 2-27-20; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2020,20200062,USACE,2213,545,gov_federal,agency default (USACE),"Final Integrated General Reevaluation Report and Environmental Impact Statement San Francisco Bay to Stockton, California, Navigation Study, Review Period Ends: 04/ 06/2020, Contact: Paul DeMarco 904-232-1897. Amended Notice"
+2020,20200065,TVA,2211,500,gov_federal,agency default (TVA),Allen Fossil Plant Ash Impoundment Closure
+2020,20200066,FERC,2211,44000,private,agency default (FERC),Alaska LNG Project
+2020,20200071,UDOT,237310,78,gov_state_local,agency default (UDOT),"I-15 Milepost 11 Interchange, Contact: Elisa Albury 801-834-5284. Pursuant to 23 U.S.C. 139(n)(2), UDOT has issued a single FEIS and ROD. Therefore, the 30-day wait/ review period under NEPA does not apply to this action. [[Page 17328]]"
+2020,20200072,DOE,9281,0,private,agency default (DOE),"ADOPTION--Alaska LNG Project, Contact: Brian Lavoie 202-586-2489. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2020,20200073,USACE,2213,100,mixed,USACE civil works (mixed with sponsor share),"Westchester County Streams, Byram River Basin Flood Risk Management Feasibility Study--Final Integrated Feasibility Report & Environmental Impact Statement"
+2020,20200089,BLM,212,30,private,agency default (BLM),"Tucker Hill Perlite Mine Expansion Project Plan of Operations Amendment No. 7, Review Period Ends: 05/26/ 2020, Contact: Paul Whitman 541-947-6110."
+2020,20200096,USACE,2213,200,mixed,USACE civil works (mixed with sponsor share),"Westminster, East Garden Grove, CA Flood Risk Management Study"
+2020,20200097,FTA,485,546,gov_state_local,agency default (FTA),"NJ Transitgrid Traction Power System, Contact: Donald Burns 212-668-2203. Under 23 U.S.C. 139(n)(2), FTA has issued a single document that consists of a final environmental impact statement and a record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Amended Notice:"
+2020,20200113,DOT,482,30000,mixed,title hint: HSR (mixed),Dallas to Houston High-Speed Rail
+2020,20200140,FERC,2211,50,private,agency default (FERC),Don Pedro Hydroelectric Project and La Grange Hydroelectric Project
+2020,20200143,USACE,488,100,mixed,USACE civil works (mixed with sponsor share),Chicago Area Waterway System Dredged Material Management Plan
+2020,20200149,BLM,211,5000,private,agency default (BLM),Converse County Oil and Gas Project
+2020,20200167,TVA,2211,899,gov_federal,agency default (TVA),Gallatin Impoundment Closure
+2020,20200169,USAF,481,150,gov_federal,agency default (USAF),F-35A Operational Beddown--Air Force Reserve Command
+2020,20200172,UDOT,237310,250,gov_state_local,agency default (UDOT),"Parley's Interchange; I-80/I-215 Eastside, Contact: Naomi Kisen 801-965-4000. Pursuant to 23 U.S.C. 139(n)(2), UDOT has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2020,20200178,BLM,2211,700,private,agency default (BLM),Yellow Pine Solar Project
+2020,20200180,FRA,482,2300,gov_state_local,agency default (FRA),"Long Bridge Project, Contact: David Valenstein 202-493-6368. Under 23 U.S.C. 139(n)(2), FRA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Dated: September 4, 2020. Candi Schaedle, Acting Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2020-20063 Filed 9-10-20; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2020,20200183,BR,2213,500,gov_federal,agency default (BR),Friant-Kern Canal Middle Reach Capacity Correction Project Final Environmental Impact Statement/ Environmental Impact Report
+2020,20200193,BR,2213,35,gov_federal,agency default (BR),Truckee Canal Extraordinary Maintenance
+2020,20200196,FTA,485,500,gov_state_local,agency default (FTA),Final Environmental Impact Statement/ Final Environmental Impact Report (Vol 1) for the East San Fernando Valley Transit Corridor Project
+2020,20200197,TVA,212,50,private,title hint: private extractive/energy,"Sugar Camp Energy, LLC Mine Number 1 Boundary Revision 6"
+2020,20200202,GSA,236,308,gov_federal,title hint: GSA LPOE,Expansion and Modernization of the San Luis I Land Port of Entry
+2020,20200204,BIA,211,1000,tribal,agency default (BIA),Osage County Oil and Gas
+2020,20200207,BIA,713210,600,tribal,agency default (BIA),Tejon Trust Acquisition and Casino Project
+2020,20200209,BIA,713210,180,tribal,agency default (BIA),"Little River Band of Ottawa Indians, Michigan Trust Acquisition and Casino Project, Review Period Ends: 11/ 30/2020, Contact: Scott Doig 612-725-4514."
+2020,20200213,FHWA,237310,1200,gov_state_local,agency default (FHWA),"South Bridge Connector, Brown County, Wisconsin, Tier I, Contact: Ian Chidister 608-829-7503. Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2020,20200243,BR,2213,100,mixed,BR water infra (mixed with sponsor share),Eastern North Dakota Alternate Water Supply Project
+2020,20200244,USAF,481,5000,gov_federal,agency default (USAF),"F-35A Wing Beddown at Tyndall AFB and MQ-9 Wing Beddown at Tyndall AFB or Vandenberg AFB, Review [[Page 78324]] Period Ends: 01/04/2021, Contact: Nolan Swick 210-925-3392."
+2020,20200251,USCG,9281,0,gov_federal,agency default (USCG),"ADOPTION--Mariana Islands Training and Testing Final EIS-OEIS, Contact: Maile Norman 808-535-3264. The United States Coast Guard (USCG) has adopted the United States Navy Final"
+2020,20200253,BR,2213,100,gov_federal,agency default (BR),Paradox Valley Unit of the Colorado River Basin Salinity Control Program
+2020,20200254,USFS,713,50,private,agency default (USFS),Snow King Mountain Resort On- Mountain Improvements
+2020,20200011,USAF,2211,2000,private,title hint: private extractive/energy,Environmental Impact Statement/ Environmental Impact Report for the Edwards AFB Solar Project
+2020,20200148,USACE,212,5000,private,override: Moapa Solar utility-scale,Pebble Mine
+2020,20200158,BPA,999,0,gov_federal,agency default (BPA),"USACE, OR, Columbia River System Operations"
+2020,20200043,USACE,2213,1700,gov_federal,agency default (USACE),Fire Island Inlet to Montauk Point Reformulation Study
+2020,20200074,BLM,212,672,private,agency default (BLM),Ambler Road Final Environmental Impact Statement
+2020,20200166,BLM,212,7000,private,agency default (BLM),Willow Master Development Plan Final Environmental Impact [[Page 49650]] Statement
+2021,20210005,USFS,212,7000,private,agency default (USFS),Resolution Copper Project and Land Exchange
+2021,20210008,BLM,2211,550,private,agency default (BLM),"Crimson Solar Project Final Environmental Impact Statement and Proposed Land Use Amendment to the California Desert Conservation Area Plan, Review Period Ends: 02/22/ 2021, Contact: Miriam Liberatore 541-618-2200."
+2021,20210009,FTA,482,3000,gov_state_local,agency default (FTA),"King of Prussia Rail Extension Project, Contact: Tim Lidiak 215-656-7084. Under 23 U.S.C. 139(n)(2), FTA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2021,20210018,BLM,2211,0,private,agency default (BLM),"Crimson Solar Project Final Environmental Impact Statement and Proposed Land Use Amendment to the California Desert Conservation Area Plan, Review Period Ends: 03/15/ 2021, Contact: Miriam Liberatore 951-697-5200. Amended Notice"
+2021,20210027,USACE,237310,180,gov_state_local,title hint: highway (state DOT pays),U.S. Highway 275 West Point to Scribner Expressway
+2021,20210028,BOEM,2211,3000,private,agency default (BOEM),Vineyard Wind 1 Offshore Wind Energy Project
+2021,20210030,USAF,481,1000,gov_federal,agency default (USAF),"B-21 Main Operating Base 1 (MOB 1) Beddown at Dyess AFB, Texas or Ellsworth AFB, South Dakota"
+2021,20210031,FAA,481,2400,gov_state_local,agency default (FAA),LaGuardia Access Improvement Program
+2021,20210036,BR,2213,50,gov_federal,agency default (BR),Leavenworth National Fish Hatchery Surface Water Intake Fish Screens and Fish Passage Project
+2021,20210039,USFS,212,30,private,agency default (USFS),Pinto Valley Mine
+2021,20210040,FTA,485,1700,gov_state_local,agency default (FTA),"Dallas CBD Second Light Rail Alignment (D2 Subway), Contact: Terence Plaskon 817-978-0573. Under 23 U.S.C. 139(n)(2), FTA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Dated: April 5, 2021. Cindy S. Barger, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2021-07298 Filed 4-8-21; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2021,20210043,FRA,482,950,gov_state_local,agency default (FRA),"Oregon Passenger Rail Tier 1 Final Environmental Impact Statement/Combined Record of Decision for the Oregon Portion of the Pacific Northwest Rail Corridor (Portland to Eugene), Contact: Lydia Kachadoorian 781-227-0778. Under 23 U.S.C. 139(n)(2), FRA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action"
+2021,20210046,USACE,2213,100,mixed,USACE civil works (mixed with sponsor share),Phase 3 Reclamation District 17 Levee Seepage Repair Project
+2021,20210055,FAA,481,1200,gov_state_local,agency default (FAA),"Bob Hope ``Hollywood-Burbank'' Airport Replacement Passenger Terminal, Contact: Edvige B. Mbakoup 424- 405-7283. Under 49 U.S.C. 304a(b), FAA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2021,20210062,TREAS,999,1400,gov_federal,agency default (TREAS),Construction and Operation of a Currency Production Facility within the National Capital Region
+2021,20210065,BIA,2211,400,tribal,agency default (BIA),Southern Bighorn Solar Projects
+2021,20210067,FRA,482,12300,gov_state_local,agency default (FRA),"Hudson Tunnel Project--Combined Final Environmental Impact Statement/Record of Decision and Final Section 4(f) Evaluation, Contact: Amishi Castelli 617-431-0416. Under 23 U.S.C. 139(n)(2), FRA is issuing a single document that consists of a final environmental impact statement and record of decision. Therefore, the review period does not apply."
+2021,20210070,USACE,2213,128,mixed,USACE civil works (mixed with sponsor share),"Lower Cache Creek, Yolo County, Woodland and Vicinity, CA, Flood Risk Management Feasibility Study"
+2021,20210079,CHSRA,482,19700,gov_state_local,agency default (CHSRA),Bakersfield to Palmdale Project Section: Final Environmental Impact Report/Environmental Impact Statement
+2021,20210082,FAA,481,10,gov_state_local,agency default (FAA),Spaceport Camden
+2021,20210089,FRA,482,7000,gov_state_local,agency default (FRA),"Atlanta to Charlotte Rail Corridor Investment Plan, Contact: John Winkle 202-493-6067. Under 23 U.S.C. 139(n)(2), FRA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2021,20210110,BLM,212,200,private,agency default (BLM),Robinson Mine Plan of Operations Amendment
+2021,20210113,USACE,485,3600,gov_state_local,title hint: transit (state/local pays),"Adoption--Westside Subway Extension Transit Corridor Project Extension of the Existing Metro Purple Line and Metro Red Line Heavy Rail Subway Los Angeles County Metropolitan Transportation Authority Los Angeles County CA, Review Period Ends: 09/ 13/2021, Contact: Kathlyn Osagie 213-330-6030. The U.S. Army Corps of Engineers (USACE) has adopted the Federal Transit Administration's Final"
+2021,20210120,BLM,212,50,private,agency default (BLM),Relief Canyon Mine Project
+2021,20210121,BOEM,2211,2000,private,agency default (BOEM),South Fork Wind Farm and South Fork Export Cable Project
+2021,20210143,FHWA,237310,1200,gov_state_local,agency default (FHWA),"I-69 Ohio River Crossing Project, Contact: Michelle Allen 317-226-7344. Under 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2021,20210145,USACE,2213,42,gov_federal,agency default (USACE),Fort Peck Dam Test Release
+2021,20210146,FERC,2211,200,private,agency default (FERC),East Lateral Xpress Project
+2021,20210147,FHWA,237310,745,gov_state_local,agency default (FHWA),Route 220 Martinsville Southern Connector Study
+2021,20210148,FERC,2211,200,private,agency default (FERC),East 300 Upgrade Project
+2021,20210150,USACE,488,170,gov_federal,agency default (USACE),Port of Long Beach Deep Draft Navigation Feasibility Study
+2021,20210151,FERC,2211,200,private,agency default (FERC),Marcus Hook Electric Compression Project
+2021,20210154,FERC,486,670,private,agency default (FERC),Evangeline Pass Expansion Project
+2021,20210157,FERC,2211,127,private,agency default (FERC),North Baja Xpress Project
+2021,20210165,CHSRA,482,5000,gov_state_local,agency default (CHSRA),Burbank to Los Angeles Project Section Final Environmental Impact Report/Environmental Impact Statement
+2021,20210167,FERC,2211,81,private,agency default (FERC),Alberta Xpress and Lease Capacity Abandonment Projects
+2021,20210174,FERC,2211,272,private,agency default (FERC),Enhancement by Compression Project
+2021,20210181,FRA,482,2000,gov_state_local,agency default (FRA),"Western Rail Yard Infrastructure Project, Contact: Marlys Osterhues 617-494-2147. Under 23 U.S.C. 139(n)(2), FRA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action. Dated: November 29, 2021. Cindy S. Barger, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2021-26285 Filed 12-2-21; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2021,20210026,GSA,236,300,gov_federal,title hint: GSA LPOE,Chet Holifield Federal Building Tenant Relocation
+2021,20210175,WAPA,2211,500,mixed,agency default (WAPA),Rail Tie Wind Project
+2021,20210123,USACE,2213,2600,gov_federal,agency default (USACE),Florida Keys Coastal Storm Risk Management Study Final Integrated Feasibility Report and Environmental Impact Statement
+2022,20220001,USPS,2211,6000,private,title hint: private extractive/energy,Next Generation Delivery Vehicle Acquisitions
+2022,20220009,FTA,485,2750,gov_state_local,agency default (FTA),Southwest Corridor Light Rail Project Final Environmental Impact Statement
+2022,20220018,CHSRA,482,3500,gov_state_local,agency default (CHSRA),California High-Speed Rail: San Jose to Merced Project Section Final Environmental Impact Report/ Environmental Impact Statement
+2022,20220019,DOD,9281,300,gov_federal,agency default (DOD),Construction and Demonstration of a Prototype Mobile Microreactor
+2022,20220023,USAF,9281,72,gov_federal,agency default (USAF),"T-7A Recapitalization at Joint Base San Antonio, Texas"
+2022,20220026,FERC,2211,200,private,agency default (FERC),Delta Lateral Project
+2022,20220030,BR,2213,89,gov_federal,agency default (BR),Adoption--Leavitt Reservoir Expansion Project
+2022,20220036,FERC,486,200,private,agency default (FERC),Clear Creek Expansion Project
+2022,20220038,FERC,2211,80,private,agency default (FERC),Wisconsin Access Project
+2022,20220049,FHWA,237310,2250,gov_state_local,agency default (FHWA),Interstate 81 Viaduct Project
+2022,20220050,FERC,2211,400,private,agency default (FERC),Hackberry Storage Project
+2022,20220053,MARAD,488,1567,gov_state_local,agency default (MARAD),"Port of Long Beach Pier B On-Dock Rail Support Project, Contact: Alan J. Finio 202-366-8024. Under 49 U.S.C. 304a(b), MARAD has issued a single document that consists of a final environmental impact statement (FEIS) and record of decision (ROD). Therefore, the 30-day wait/review period under NEPA does not apply to this action. Amended Notice"
+2022,20220057,FHWA,237310,7150,gov_state_local,agency default (FHWA),"Chesapeake Bay Crossing Study Tier 1 NEPA, Contact: Jeanette Mar 410-779-7152. Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2022,20220068,TVA,2211,200,private,title hint: private extractive/energy,North Alabama Utility-Scale Solar Project
+2022,20220070,DOE,9281,4500,gov_federal,override: VTR Idaho National Lab <e2><80><94> DOE federal nuclear R&D,Versatile Test Reactor Environmental Impact Statement
+2022,20220074,CHSRA,482,3500,gov_state_local,agency default (CHSRA),"California High-Speed Rail Authority San Francisco to San Jose Project Section Final Environmental Impact Report/Environmental Impact Statement, Review Period Ends: 07/ 11/2022, Contact: Scott Rothenberg 916-403-6936."
+2022,20220078,FRA,482,1000,gov_state_local,agency default (FRA),"Coachella Valley-San Gorgonio Pass [[Page 36495]] Rail Corridor Service Program Combined Final Tier 1 Program EIS/EIR and Record of Decision, Review Period, Contact: Amanda Ciampolillo 617-866- 9398. Under 23 U.S.C. 139(n)(2), FRA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2022,20220081,FHWA,237310,3700,gov_state_local,agency default (FHWA),I-495 & I-270 Managed Lanes Study Final Environmental Impact Statement and Final Section 4(f) Evaluation
+2022,20220087,FERC,2211,75,private,agency default (FERC),MP66-69 Compression Relocation and Modification Amendment MP33 Compression Station Modification Amendment Project
+2022,20220108,TVA,2211,0,gov_federal,agency default (TVA),Clinch River Nuclear Site Advanced Nuclear Reactor Technology Park
+2022,20220109,FERC,486,950,private,agency default (FERC),Regional Energy Access Expansion Project
+2022,20220113,FTA,485,5750,gov_state_local,agency default (FTA),"Chicago Transit Authority Red Line Extension Project, Contact: Elizabeth Breiseth 312-353-4315. Under 49 U.S.C. 304a(b), FTA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2022,20220124,FERC,486,200,private,agency default (FERC),Texas Gas Henderson County Expansion Project
+2022,20220126,FERC,2211,450,private,agency default (FERC),Lower Klamath Project
+2022,20220127,UDOT,237310,729,gov_state_local,agency default (UDOT),Little Cottonwood Canyon Environmental Impact Statement; SR-210: Wasatch Boulevard to Alta
+2022,20220134,FERC,2211,11000,private,agency default (FERC),Commonwealth LNG Project
+2022,20220135,FERC,2211,1500,private,agency default (FERC),Line 200 and Line 300 Project
+2022,20220145,FHWA,237310,1500,gov_state_local,agency default (FHWA),"I-526 Lowcountry Corridor West, Contact: Jeffrey (Shane) Belcher 803-253-3187. Under 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2022,20220149,FERC,486,287,private,agency default (FERC),Spire STL Pipeline Project
+2022,20220152,USCG,237310,300,gov_state_local,title hint: highway (state DOT pays),"BNSF Railway Bridge 196.6 Project Morton and Burleigh Counties, North Dakota, Review Period Ends: 11/28/ 2022, Contact: Rob McCaskey 314-269-2381. [[Page 65203]]"
+2022,20220155,BOEM,211,50,private,agency default (BOEM),"Outer Continental Shelf (OCS) Alaska Region, Cook Inlet Planning Area, Oil and Gas Lease Sale 258"
+2022,20220176,FERC,2211,75,private,agency default (FERC),GTN XPress Project
+2022,20220177,DOE,9281,0,private,agency default (DOE),"ADOPTION--Commonwealth LNG Project, Contact: Amy Sweeney 202-586-2627. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2022,20220181,TVA,2211,2100,gov_federal,agency default (TVA),Cumberland Fossil Plant Retirement
+2022,20220186,TVA,2211,100,private,title hint: private extractive/energy,Moore County Solar
+2022,20220189,USACE,2213,90,mixed,USACE civil works (mixed with sponsor share),Thousand Palms Flood Control Project
+2022,20220190,FERC,2211,500,private,agency default (FERC),"Virginia Electrification Project, [[Page 78961]]"
+2022,20220146,USN,488,3600,gov_federal,agency default (USN),"Pearl Harbor Naval Shipyard and Intermediate Maintenance Facility Dry Dock and Waterfront Production Facility at Joint Base Pearl Harbor-Hickam, Oahu, Hawaii"
+2022,20220089,USACE,2213,1300,gov_federal,agency default (USACE),Charleston Peninsula Coastal Storm Risk Management
+2022,20220193,FEMA,999,0,unknown,agency default (FEMA),ADOPTION--Rebuild by Design--Hudson River (RBD-HR)
+2023,20230030,BLM,2211,11000,private,agency default (BLM),SunZia Southwest Transmission Project Right-of-Way Amendment
+2023,20230070,BOEM,2211,2800,private,agency default (BOEM),Ocean Wind 1 Offshore Wind Farm
+2023,20230087,BOEM,2211,5000,private,agency default (BOEM),Revolution Wind Farm and Revolution Wind Export Cable Final Environmental Impact Statement
+2023,20230092,FERC,2211,28000,private,agency default (FERC),CP2 LNG and CP Express Project
+2023,20230120,BOEM,2211,5000,private,agency default (BOEM),Empire Offshore Wind
+2023,20230128,BOEM,2211,11500,private,agency default (BOEM),Coastal Virginia Offshore Wind Commercial
+2023,20230150,BR,2213,6600,gov_state_local,override: Sites Reservoir <e2><80><94> Sites JPA state-led,Sites Reservoir Project Final Environmental Impact Report/Environmental Impact Statement
+2023,20230027,FRA,482,16000,gov_state_local,agency default (FRA),High Speed Rail Empire Corridor Tier 1
+2023,20230083,FERC,2211,225,private,agency default (FERC),Cumberland Project
+2023,20230033,FHWA,237310,2000,gov_state_local,agency default (FHWA),"Lafayette Regional Xpressway Tier 1, Contact: Larry Breland 225-757-7607. Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2023,20230008,FERC,2211,1300,private,agency default (FERC),Three Rivers Interconnection Project
+2023,20230011,FERC,486,200,private,agency default (FERC),Valley Connector Expansion Project
+2023,20230013,USAF,236,1200,gov_federal,agency default (USAF),"Beddown of a Foreign Military Sales Pilot Training Center at Ebbing Air National Guard Base, Arkansas or Selfridge Air National Guard Base, Michigan, Review Period Ends: 03/06/ 2023, Contact: David Martin 210-925-4266."
+2023,20230023,DOD,9281,200,gov_federal,agency default (DOD),"Heat and Electrical Upgrades at Fort Wainwright, Alaska"
+2023,20230034,FERC,2211,500,private,agency default (FERC),Venice Extension Project
+2023,20230036,FERC,2211,1500,private,agency default (FERC),Southside Reliability Enhancement Project
+2023,20230040,FERC,486,120,private,agency default (FERC),Northern Lights 2023 Expansion Project
+2023,20230043,USAF,9281,1600,gov_federal,override: Sentinel USAF activity EIS <e2><80><94> federal MILCON,"Sentinel (GSBD) Deployment and Minuteman III Decommissioning and Disposal, Review Period Ends: 05/01/ 2023, Contact: Lt Col Alysia Harvey 307-773-3400. Dated: March 27, 2023. Cindy S. Barger, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2023-06683 Filed 3-30-23; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2023,20230049,FERC,486,75,private,agency default (FERC),Wahpeton Expansion Project
+2023,20230073,USACE,2213,100,gov_federal,agency default (USACE),Harris Reservoir Expansion Project Final Environmental Impact Statement Prepared for Permit Application No. SWG-2016-01027
+2023,20230106,USFS,713,60,private,agency default (USFS),Lutsen Mountains Ski Area Expansion Project
+2023,20230107,NRC,2211,5400,private,agency default (NRC),Environmental Impact Statement for the Construction Permit for the Kairos Hermes Test Reactor
+2023,20230118,FHWA,237310,2500,gov_state_local,agency default (FHWA),"Mid-States Corridor Tier 1, Contact: Michelle Herrell 317-226-5630. Pursuant to 23 U.S.C. 139(n)(2), FHWA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2023,20230119,BLM,212,147,private,agency default (BLM),Gibellini Vanadium Mine Project
+2023,20230123,FERC,2211,1530,private,agency default (FERC),Virginia Reliability Project and Commonwealth Energy Connector Project
+2023,20230124,FHWA,237310,2300,gov_state_local,agency default (FHWA),I-10 Calcasieu River Bridge Improvements
+2023,20230147,BLM,212,1000,private,agency default (BLM),Goldrush Mine Project
+2023,20230151,FHWA,237310,1260,gov_state_local,agency default (FHWA),"Walnut Ridge--Missouri State Line (Future I-57), Contact: Randal Looney 501-324-6430. Under 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2023,20230162,USAF,481,275,gov_federal,agency default (USAF),KC-46A Main Operating Base No. 6 Beddown
+2023,20230178,BOEM,2211,1500,private,agency default (BOEM),Sunrise Wind Project
+2023,20230071,FAA,481,0,gov_federal,title hint: military,"Adoption--Beddown of a Foreign Military Sales Pilot Training Center at Ebbing Air National Guard Base, Arkansas or Selfridge Air National Guard Base, Michigan, Contact: Dean McMath, 817-222-5617. The Federal Aviation Administration (FAA) has adopted the United States Air Force's Final"
+2023,20230095,DOE,2211,0,private,agency default (DOE),ADOPTION--Final Environmental Impact Statement for the Civil Nuclear Credit Program Proposed Award of Credits to Pacific Gas and Electric Company for Diablo Canyon Power Plant
+2023,20230111,DOE,9281,0,private,agency default (DOE),"ADOPTION--CP2 LNG and CP Express Project, Contact: Brian Lavoie 202-586-2459. The Department of Energy (DOE) has adopted the Federal Energy Regulatory Commission's Final"
+2023,20230130,DOE,212,2260,private,agency default (DOE),ADOPTION--Thacker Pass Lithium Mine Project
+2023,20230164,FAA,481,5,gov_state_local,agency default (FAA),"Adoption--Airspace Optimization for Readiness for Mountain Home Air Force Base, Contact: Lonnie Covalt 206- 231-3998. The Federal Aviation Administration (FAA) has adopted the United States Air Force's Final"
+2023,20230048,GSA,999,300,gov_federal,agency default (GSA),U.S. Food and Drug Administration Muirkirk Road Campus Master Plan
+2024,20240008,USACE,2213,750,gov_federal,agency default (USACE),North of Lake Okeechobee Storage Reservoir Section 203 Study
+2024,20240026,FERC,2211,2250,private,agency default (FERC),Goldendale Energy Storage Project
+2024,20240031,TVA,2211,2000,gov_federal,agency default (TVA),Kingston Fossil Plant Retirement
+2024,20240033,BOEM,2211,8000,private,agency default (BOEM),New England Wind Project
+2024,20240046,FAA,481,0,gov_state_local,agency default (FAA),"ADOPTION--Moody Air Force Base Comprehensive Airspace Initiative, Contact: Veronda Johnson 404-305- 5598. The Federal Aviation Administration (FAA) has adopted the United States Air Force's Final"
+2024,20240047,USACE,488,625,mixed,USACE civil works (mixed with sponsor share),Proposed Corpus Christi Ship Channel Deepening Project
+2024,20240049,FRA,482,8800,gov_state_local,agency default (FRA),"Washington Union Station Expansion Project, Contact: Amanda Murphy 202-493-0413. Under 23 U.S.C. 139(n)(2), FRA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2024,20240054,BIA,713210,275,tribal,agency default (BIA),Redding Rancheria Fee-to-Trust and Casino
+2024,20240055,FTA,485,5000,gov_state_local,agency default (FTA),West Santa Ana Branch Transit Corridor Final EIS/EIR
+2024,20240059,GSA,236,184,gov_federal,title hint: GSA LPOE,"Expansion and Modernization of the Raul Hector Castro Land Port of Entry and Proposed Commercial Land Port of Entry in Douglas, Arizona"
+2024,20240064,NMFS,2211,0,gov_federal,agency default (NMFS),"ADOPTION--New England Wind Project, Contact: Karolyn Lock 301-427-8401. The National Marine Fisheries Service (NMFS) has adopted the Bureau of Ocean Energy Management's Final"
+2024,20240065,USAF,481,133,gov_federal,agency default (USAF),KC-46A MOB 5 Beddown
+2024,20240085,USAF,481,2200,gov_federal,agency default (USAF),B-21 Beddown MOB 2/MOB 3
+2024,20240086,BLM,212,300,private,agency default (BLM),Bald Mountain Mine Plan of Operations Amendment Juniper Project
+2024,20240091,BOEM,2211,11000,private,agency default (BOEM),Atlantic Shores Offshore Wind South
+2024,20240094,FTA,485,2750,gov_state_local,agency default (FTA),"Operations and Maintenance Facility South Final Environmental Impact Statement, Review Period Ends: 07/08/ 2024, Contact: JUSTIN ZWEIFEL 206-257-2141."
+2024,20240100,BLM,2211,1200,private,agency default (BLM),Lava Ridge Wind Project Final Environmental Impact Statement
+2024,20240115,USCG,211,2100,private,override: Texas Gulflink Deepwater Port <e2><80><94> Sentinel Midstream private,Texas Gulflink Deepwater Port License Application
+2024,20240126,USFS,212,40,private,agency default (USFS),Powder River Mining
+2024,20240129,BLM,2211,2330,private,agency default (BLM),"Libra Solar, Review Period Ends: 08/ 26/2024, Contact: Melanie Hornsby 775-885-6024"
+2024,20240137,BOEM,2211,6000,private,override: Maryland Offshore Wind <e2><80><94> US Wind private developer,Maryland Offshore Wind
+2024,20240145,USFS,212,370,private,agency default (USFS),"Stillwater Mining Company, East Boulder Mine Amendment 004 Expansion EIS, Review Period Ends: 09/10/ 2024, Contact: Robert Grosvenor 406-848-7375."
+2024,20240149,USACE,488,1079,mixed,USACE civil works (mixed with sponsor share),Tampa Harbor Navigation Improvement Study Final Integrated General Reevaluation Report and Environmental Impact Statement
+2024,20240154,BLM,2211,0,private,agency default (BLM),Utility-Scale Solar Energy Development PEIS
+2024,20240156,GSA,236,180,gov_federal,title hint: GSA LPOE,"Alcan Land Port of Entry Expansion and Modernization Final Environmental Impact Statement Alcan, Alaska"
+2024,20240166,BLM,212,996,private,agency default (BLM),"Rhyolite Ridge Lithium-Boron Mine Project, Review Period Ends: 10/21/ [[Page 77146]] 2024, Contact: Scott Distel 775-861-6476."
+2024,20240168,FTA,485,5100,gov_state_local,agency default (FTA),West Seattle Link Extension
+2024,20240171,DOE,2211,1500,private,agency default (DOE),Adoption--Sunrise Wind Project
+2024,20240178,BLM,212,400,private,agency default (BLM),Robertson Mine Project
+2024,20240180,FTA,485,10000,gov_state_local,agency default (FTA),Port Authority Bus Terminal Replacement Project
+2024,20240194,BLM,2211,600,private,agency default (BLM),Rough Hat Clark Solar Project
+2024,20240204,GSA,236,240,gov_federal,agency default (GSA),"Kenneth G. Ward (Lynden) and Sumas Land Ports of Entry Modernization and Expansion Projects Lynden and Sumas, Washington"
+2024,20240207,USCG,236,323,gov_federal,agency default (USCG),"Expansion and Modernization of Base Seattle, Washington"
+2024,20240209,USAF,481,55,gov_federal,agency default (USAF),Air National Guard F-15EX Eagle II and F-35A Lightning II Beddowns
+2024,20240211,BR,2213,0,gov_federal,agency default (BR),Long-Term Operation of the Central Valley Project and State Water Project
+2024,20240212,BLM,2211,700,private,agency default (BLM),Jove Solar Energy Project
+2024,20240213,BOEM,2211,9000,private,agency default (BOEM),SouthCoast Wind Project
+2024,20240220,BIA,713210,40,tribal,agency default (BIA),Coquille Indian Tribe Fee to Trust Gaming Facility Project
+2024,20240221,BIA,713210,600,tribal,agency default (BIA),Koi Nation Shiloh Resort and Casino
+2024,20240229,DOE,212,0,private,agency default (DOE),"ADOPTION--Rhyolite Ridge Lithium- Boron Mine Project, Contact: David A. Oster 240-457-7973. The Department of Energy (DOE) has adopted the Bureau of Land Management's Final"
+2024,20240237,DOE,2211,33.7,private,agency default (DOE),ADOPTION--Angoon Hydroelectric Project Construction and Operation Special-Use-Authorization Thayer Creek Admiralty Island National Monument Tongass National Forest AK
+2024,20240241,FHWA,237310,3600,gov_state_local,agency default (FHWA),"Interstate 39/90/94 Corridor, Contact: Lisa Hemesath 608-829-7503. Under 23 U.S.C. 139(n)(2), FHWA has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2024,20240242,USAF,236,40,gov_federal,agency default (USAF),"Expansion of Childcare Services North of Eglin Test and Training Complex, Review Period Ends: 01/27/ 2025, Contact: Nick Post 210-925-3516."
+2024,20240243,FERC,486,1100,private,agency default (FERC),Ridgeline Expansion Project
+2024,20240017,BLM,9281,5000,gov_federal,override: Sentinel deployment on BLM land <e2><80><94> federal MILCON,"ADOPTION--Sentinel (GSBD) Deployment and Minuteman III Decommissioning and Disposal, Contact: Dan Brunkhorst 406-538-1981. The Bureau of Land Management (BLM) has adopted the United States Air Force's Final"
+2024,20240022,USFS,9281,0,private,agency default (USFS),"ADOPTION--Sentinel (GSBD) Deployment and Minuteman III Decommissioning and Disposal, Contact: Vernon E. Koehler 719-252-4778. The Forest Service (USFS) has adopted the United States Air Force's Final"
+2024,20240075,USAF,9281,80,gov_federal,agency default (USAF),"T-7A Recapitalization at Columbus Air Force Base, Mississippi"
+2024,20240088,CHSRA,482,22600,gov_state_local,agency default (CHSRA),"California High-Speed Rail Authority Palmdale to Burbank Project Section: Final Environmental Impact Report/Environmental Impact Statement, Review Period Ends: 06/ 24/2024, Contact: Stefan Galvez-Abadia 800-630-1039. Dated: May 20, 2024. Cindy S. Barger, Director, NEPA Compliance Division, Office of Federal Activities. [FR Doc. 2024-11462 Filed 5-23-24; 8:45 am] BILLING CODE 6560-50-P </pre></body> </html>"
+2024,20240103,BLM,2211,2500,private,agency default (BLM),Greenlink West Transmission Project
+2024,20240106,USAF,9281,80,gov_federal,agency default (USAF),"T-7A Recapitalization at Laughlin Air Force Base, Texas"
+2024,20240122,BOP,236,500,gov_federal,agency default (BOP),"Proposed Development of a New Federal Correctional Institution and Federal Prison Camp--Letcher County, KY"
+2024,20240139,GSA,236,100,gov_federal,agency default (GSA),"The Buildings at 202, 214, and 220 South State Street, Chicago, Illinois"
+2024,20240160,USFS,212,2580,private,agency default (USFS),Stibnite Gold Project
+2024,20240167,BLM,2211,930,private,agency default (BLM),Cross-Tie 500 kV Transmission Project
+2024,20240181,UDOT,237310,3700,gov_state_local,agency default (UDOT),"I-15 Farmington to Salt Lake City, Contact: Brandon Weston 801-965-4603. Under 23 U.S.C. 139(n)(2), UDOT has issued a single document that consists of a final environmental impact statement and record of decision. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
+2024,20240188,RUS,2211,50,mixed,agency default (RUS),McClellanville 115 kV Transmission Line Project
+2024,20240235,USACE,237310,150,gov_state_local,title hint: highway (state DOT pays),Nebraska Highway 12 Niobrara East and West
+2024,20240021,NSA,999,100,gov_federal,agency default (NSA),O'Brien Road Access Modernization

@@ -1,0 +1,43 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# renv
+# The lockfile + activate.R are committed; the library is reconstructed from the lockfile.
+renv/library/
+renv/local/
+renv/cellar/
+renv/staging/
+renv/python/
+renv/sandbox/
+
+# Data
+# /data/bea/ — committed (BEA reference tables, small, needed for replication)
+# /data/raw/ — committed (FR API snapshot pinned for paper-level replication)
+# /data/processed/ — committed (these are regenerable but committing pinned outputs
+#   means anyone can sanity-check Φ_i without re-running the cost-extraction scripts)
+# To restore the original ignore behavior on any subset, uncomment its line below.
+# data/raw/*.csv
+# data/processed/*.csv
+# data/bea/*.xlsx
+
+# Outputs — committed (pinned snapshot lets reviewers verify Φ without re-running pipeline)
+# To restore the original ignore behavior, replace the lines below with:
+#   output/*
+#   !output/.gitkeep
+
+# Notes — exclude internal adversarial-review prompt; commit the rest
+notes/adversarial_review_prompt.md
+
+# Editor
+*.swp
+*.swo
+.vscode/
+.idea/

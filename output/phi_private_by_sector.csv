@@ -1,0 +1,75 @@
+bea_code,num_b_2024,den_b_2024,phi_10yr,bea_label
+2120,61.23407405750293,131.98898696359618,0.4639332073545793,"Mining, except oil and gas"
+4860,65.5111076626643,150.93208482082267,0.43404361465247815,Pipeline transportation
+2211,343.53595672631997,1090.0790048745412,0.31514776010740436,Electric power
+487S,19.113506199282526,61.33727711950195,0.3116132162509291,Other transportation and support activities
+4820,30.54964996606222,119.78563737000745,0.2550360012836681,Railroad transportation
+2213,3.932148407549493,25.865876544020576,0.15202069030436507,"Water, Sewage, and other systems"
+7130,4.560485253764215,156.74184381124297,0.029095518738800844,"Amusements, gambling, and recreation industries"
+2300,0.9683994476810796,51.40827796073737,0.01883742241708011,Construction
+2110,13.064454247463573,1110.3271532791782,0.011766310684990225,Oil and gas extraction
+113F,0.08317772014326294,9.764790784831272,0.00851812619195816,"Forestry, fishing, and related activities"
+110C,0,126.58796517605772,0,Farms
+2130,0,80.87071955948589,0,Support activities for mining
+2212,0,135.64152663643105,0,Natural gas distribution
+3110,0,83.43796003736182,0,Food manufacturing
+3120,0,14.755922687289106,0,"Beverage, and tobacco product manufacturing"
+313T,0,3.924840376664365,0,Textile mills and textile product mills
+315A,0,0.7233922433059947,0,Apparel and leather and allied products
+3210,0,11.753845046882333,0,Wood products
+3220,0,20.796254821937183,0,Paper products
+3230,0,5.963589901594014,0,Printing and related support activities
+3240,0,44.35074233649277,0,Petroleum and coal products
+3250,0,127.76440025772357,0,Chemical products
+3260,0,26.092809624878694,0,Plastics and rubber products
+3270,0,18.249027118069424,0,Nonmetallic mineral products
+3310,0,32.25207776993543,0,Primary metals
+3320,0,35.996974149851525,0,Fabricated metal products
+3330,0,40.378225899293874,0,Machinery
+3340,0,55.26227258513686,0,Computer and electronic products
+3350,0,10.087557032058239,0,"Electrical equipment, appliances, and components"
+336M,0,54.25143650161887,0,"Motor vehicles, bodies and trailers, and parts"
+336O,0,29.851393296867997,0,Other transportation equipment
+3370,0,6.592962108123604,0,Furniture and related products
+3380,0,11.718794872382428,0,Medical equipment and supplies
+3390,0,4.280301025908156,0,Other manufacturing
+4210,0,127.62420100619978,0,Durable goods
+4220,0,120.3203083481724,0,Nondurable goods
+4410,0,44.34548759006533,0,Motor vehicle and parts dealers
+442R,0,261.49694227745067,0,Other retail
+4450,0,62.42248610209285,0,Food and beverage stores
+4520,0,104.90291158658846,0,General merchandise stores
+4810,0,42.7838000284464,0,Air transportation
+4830,0,4.875852497405097,0,Water transportation
+4840,0,18.232822270627356,0,Truck transportation
+4850,0,3.907986308591107,0,Transit and ground passenger transportation
+4930,0,41.859723897679494,0,Warehousing and storage
+5110,0,31.191370589550946,0,Publishing industries (including software)
+5120,0,9.534935510345317,0,Motion picture and sound recording industries
+5130,0,206.58268768220066,0,Broadcasting and telecommunications
+5140,0,274.877737294202,0,Information and data processing services
+5210,0,1.5727726196267435,0,Federal Reserve banks
+5221,0,129.85561562490764,0,Depository credit intermediation
+5223,0,6.328528114620562,0,Other intermediation
+5229,0,11.677379835399213,0,Nondepository credit intermediation
+5230,0,60.046019567413154,0,"Securities, commodity contracts, and investments"
+5243,0,6.9315698298700354,0,Insurance agencies and brokers and related services
+524A,0,47.176894305180305,0,Insurance carriers
+5250,0,20.54019075970633,0,"Funds, trusts, and other financial vehicles"
+5310,0,677.346099086768,0,Real estate
+5320,0,20.901542370632328,0,Rental and leasing services and lessors of intangible assets
+5411,0,10.439562811285976,0,Legal services
+5412,0,177.00406269016,0,"Miscellaneous professional, scientific, and technical services"
+5415,0,16.88678773062386,0,Computer systems design and related services
+5500,0,59.46290737956963,0,Management of companies and enterprises
+5610,0,47.86906314992416,0,Administrative and support services
+5620,0,27.47884445081226,0,Waste management and remediation services
+6100,0,244.31459794525605,0,Educational services
+6210,0,137.930120622531,0,Ambulatory health care services
+622H,0,351.7794977776467,0,Hospitals
+6230,0,54.29102383082954,0,Nursing and residential care facilities
+6240,0,37.730331975818316,0,Social assistance
+711A,0,77.47169620598378,0,"Performing arts, spectator sports, museums, and related activities"
+7210,0,140.7336688785169,0,Accommodation
+7220,0,103.3907654226629,0,Food services and drinking places
+8100,0,129.9061676924931,0,"Other services, except government"

@@ -1,0 +1,27 @@
+Package: nepa.project
+Title: Sector-level NEPA Exposure Measure (Phi_i)
+Version: 0.1.0
+Authors@R: person("Jackson", "Mejia", email = "jmejia@americafirstpolicy.com", role = c("aut", "cre"))
+Description: Replicable construction of a per-sector NEPA review exposure
+    measure from EPA EIS data (Federal Register API) and BEA fixed-asset data.
+    Companion code for the AFPI working paper on aggregate effects of NEPA reform.
+License: file LICENSE
+Encoding: UTF-8
+Depends:
+    R (>= 4.3.0)
+Imports:
+    dplyr,
+    ggplot2,
+    here,
+    httr2,
+    jsonlite,
+    lubridate,
+    purrr,
+    readr,
+    readxl,
+    rvest,
+    stringr,
+    tibble,
+    tidyr
+Suggests:
+    renv
