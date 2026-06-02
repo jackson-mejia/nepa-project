@@ -221,15 +221,15 @@ if (have_ggplot) {
     ggplot2::geom_line(linewidth = 0.8) +
     ggplot2::scale_linetype_manual(values = c("Upper" = "dashed", "Middle" = "solid", "Lower" = "dashed")) +
     ggplot2::labs(
-      x = "Years after reform",
+      x = "Year",
       y = "Output gain (%)",
       linetype = "NEPA exposure"
     ) +
     ggplot2::theme_minimal() +
     ggplot2::theme(
-      plot.title  = ggplot2::element_text(size = 14, face = "bold"),
-      axis.title  = ggplot2::element_text(size = 14),
-      axis.text  = ggplot2::element_text(size = 14),
+      plot.title  = ggplot2::element_text(size = 16, face = "bold"),
+      axis.title  = ggplot2::element_text(size = 16),
+      axis.text  = ggplot2::element_text(size = 16),
       legend.position = "none",
       axis.title.x = ggplot2::element_text(margin = ggplot2::margin(t = 10))
     )

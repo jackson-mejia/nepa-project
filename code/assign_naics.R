@@ -32,10 +32,14 @@ a <- d$lead_agency
 
 final <- d |>
   mutate(
-    naics_pipeline = ci("pipeline|gas line|gas expansion|compressor station", t) |
+    naics_pipeline = ci("pipeline|gas line|gas expansion|compressor station|riley ridge to natrona", t) |
                      (a == "FERC" & ci("expansion|gas service", t)),
     naics_mining = ci("\\bmine\\b|mining|\\bgold\\b|\\bcopper\\b|\\blithium\\b|\\bborate\\b|\\bboron\\b|\\brare earth\\b|\\bsilver\\b|\\bnickel\\b|\\bcobalt\\b|\\bcoal\\b|\\bgraphite\\b|critical mineral|\\bquarry\\b|\\bquarries\\b", t),
-    naics_oilgas = ci("oil and gas|crude oil|natural gas (well|drilling|extraction|lease)|deepwater port|offshore.*(oil|gas)|tar sands|oil shale", t),
+    # Named BLM Alaska oil/gas projects whose short titles lack the oil/gas keyword.
+    # Added per H-1 Round 2 audit (C001 fact-check finding): without this, these
+    # records default to NAICS 212 (Mining) via the BLM agency default and inflate
+    # Mining's ϕ_i past 1.0.
+    naics_oilgas = ci("oil and gas|crude oil|natural gas (well|drilling|extraction|lease)|deepwater port|offshore.*(oil|gas)|tar sands|oil shale|greater mooses tooth|\\bGMT[- ]?[12]\\b|alpine satellite|willow master development|\\bNPR.A\\b|national petroleum reserve", t),
     naics_elec_gen = ci("solar|wind|geothermal|hydroelectric|hydro |pumped storage|battery|energy storage|nuclear|combined cycle|gas plant|generating station|power plant|generation|\\btransmission\\b|\\bkV\\b|kilovolt|substation|interconnection|\\bHVDC\\b|clean power (link|line)|power line|electric line", t) |
                      (a %in% c("BOEM", "FERC") & ci("wind|solar|hydro|pumped storage|energy storage", t)) |
                      (a == "NRC" & !ci("waste|storage of spent fuel", t)) |

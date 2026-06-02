@@ -202,10 +202,10 @@ panel_year,eis_number,lead_agency,naics_code,cost_m_usd_nominal,funding_source,f
 2018,20180211,NIGC,999,0,tribal,agency default (NIGC),ADOPTION--Wilton Rancheria
 2018,20180288,OSM,212,100,private,title hint: private extractive/energy,Western Energy Company's Rosebud Mine Area F
 2018,20180043,USACE,2213,35,gov_federal,agency default (USACE),"Holden Beach East End Shore Protection Project, Review Period [[Page 12754]] Ends: 04/23/2018, Contact: Mickey Sugg 910-251-4811"
-2018,20180196,BLM,212,1400,private,agency default (BLM),Alpine Satellite Development Plan for the Proposed Greater Mooses Tooth 2 Development Project
+2018,20180196,BLM,211,1400,private,agency default (BLM),Alpine Satellite Development Plan for the Proposed Greater Mooses Tooth 2 Development Project
 2018,20180251,HUD,236,244,mixed,agency default (HUD),Rebuild by Design (RBD) Meadowlands Flood Control Project
 2018,20180275,USACE,2213,1600,gov_federal,agency default (USACE),Final Integrated City of Norfolk Coastal Storm Risk Management Feasibility Study
-2018,20180310,BLM,212,400,private,agency default (BLM),Riley Ridge to Natrona
+2018,20180310,BLM,486,400,private,agency default (BLM),Riley Ridge to Natrona
 2018,20180320,BLM,212,46,private,agency default (BLM),Lost Creek Uranium In-Situ Recover Project Modifications
 2019,20180331,FERC,2211,4000,private,agency default (FERC),Driftwood LNG Project
 2019,20180332,FERC,2211,30,private,agency default (FERC),Yuba River Development Project
@@ -327,7 +327,7 @@ panel_year,eis_number,lead_agency,naics_code,cost_m_usd_nominal,funding_source,f
 2020,20200158,BPA,999,0,gov_federal,agency default (BPA),"USACE, OR, Columbia River System Operations"
 2020,20200043,USACE,2213,1700,gov_federal,agency default (USACE),Fire Island Inlet to Montauk Point Reformulation Study
 2020,20200074,BLM,212,672,private,agency default (BLM),Ambler Road Final Environmental Impact Statement
-2020,20200166,BLM,212,7000,private,agency default (BLM),Willow Master Development Plan Final Environmental Impact [[Page 49650]] Statement
+2020,20200166,BLM,211,7000,private,agency default (BLM),Willow Master Development Plan Final Environmental Impact [[Page 49650]] Statement
 2021,20210005,USFS,212,7000,private,agency default (USFS),Resolution Copper Project and Land Exchange
 2021,20210008,BLM,2211,550,private,agency default (BLM),"Crimson Solar Project Final Environmental Impact Statement and Proposed Land Use Amendment to the California Desert Conservation Area Plan, Review Period Ends: 02/22/ 2021, Contact: Miriam Liberatore 541-618-2200."
 2021,20210009,FTA,482,3000,gov_state_local,agency default (FTA),"King of Prussia Rail Extension Project, Contact: Tim Lidiak 215-656-7084. Under 23 U.S.C. 139(n)(2), FTA has issued a single FEIS and ROD. Therefore, the 30-day wait/review period under NEPA does not apply to this action."
